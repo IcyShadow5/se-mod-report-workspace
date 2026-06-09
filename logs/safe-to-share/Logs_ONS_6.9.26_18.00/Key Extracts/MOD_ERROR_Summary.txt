@@ -1,0 +1,121 @@
+MOD_ERROR summary from Keen log
+==================================
+
+Total MOD_ERROR lines: 1996
+
+Top mods by MOD_ERROR line count:
+- Assertive Combat Systems Dependency: 784
+- Abandoned Settlements [v2]: 196
+- Modular Encounters Systems: 194
+- Assertive Loot: 168
+- Interactable Light Blocks: 116
+- Bot_spawner: 70
+- Paint Gun - realistic painting for survival + special creative features: 64
+- AQD - Easy Tool Access: 58
+- Better Spotlights: 54
+- [EEM] Exploration Enhancement Mod: 40
+- Defense Shields - v2.2(8): 38
+- WeaponCore - 3.0: 32
+- Armored Conveyors: 28
+- AQD - Conveyor Expansion: 26
+- Build Info: 16
+- TSO - More Economy 2 Blocks: 16
+- MA WeaponCore Weapons: 14
+- Cockpits Re-Re-Animated... yet once more: 14
+- Ore Detector+: 8
+- AQD - Armor Expansion: 8
+- Real Gas Giants: 6
+- PassageIntersections: 6
+- Text HUD API: 4
+- Rich HUD Master: 4
+- Real Solar Systems: 4
+
+Note: many entries are resource/icon/texture lookup warnings from other mods, not ONS.
+
+First few representative samples:
+
+15:40:17.2392 [DEBUG]  Keen:       MOD_ERROR: Text HUD API
+15:40:17.2392 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\758597413\Data\TransparentMaterials2.sbc
+15:40:17.2392 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\758597413\Textures\GUI\Screens\hud_bg_large_default.dds
+
+15:40:17.2547 [DEBUG]  Keen:       MOD_ERROR: Text HUD API
+15:40:17.2547 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\758597413\Data\TransparentMaterials2.sbc
+15:40:17.2547 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\758597413\Textures\GUI\MouseCursor.dds
+15:40:17.2547 [DEBUG]  Keen:       Loading transparent material properties
+15:40:17.2547 [DEBUG]  Keen:       Loading transparent material properties
+
+15:40:17.2688 [DEBUG]  Keen:       MOD_ERROR: Rich HUD Master
+15:40:17.2688 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\1965654081\Data\Scripts\richHudMats.sbc
+15:40:17.2688 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\1965654081\Textures\GUI\MouseCursor.dds
+
+15:40:17.2688 [DEBUG]  Keen:       MOD_ERROR: Rich HUD Master
+15:40:17.2688 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\1965654081\Data\Scripts\richHudMats.sbc
+15:40:17.2688 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\1965654081\Textures\Particles\EngineThrustMiddle.dds
+15:40:17.3082 [DEBUG]  Keen:       Loading sound definitions
+15:40:17.3082 [DEBUG]  Keen:       Loading category classes
+
+15:40:17.3167 [DEBUG]  Keen:       MOD_ERROR: WeaponCore - 3.0
+15:40:17.3167 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154371364\Data\Energy_Magazine.sbc
+15:40:17.3167 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154371364\Textures\GUI\Icons\component\BatteryComponent.dds
+15:40:17.3167 [DEBUG]  Keen:       Loading entity components
+15:40:17.3167 [DEBUG]  Keen:       Loading transparent material properties
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\CockpitFighterGlassInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Models\Cubes\Chrome_ng.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\CockpitFighterGlassInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Models\Cubes\Chrome_ng.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\CockpitFighterGlassInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Models\Cubes\Chrome_ng.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\SquareWindowDirtInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\SquareWindowDirtInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\SquareWindowDirtInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\SquareWindowDirtInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\SquareWindowDirtInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\SquareWindowDirtInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\SquareWindowDirtInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\SquareWindowDirtInside_ca.dds
+
+15:40:17.3342 [DEBUG]  Keen:       MOD_ERROR: Defense Shields - v2.2(8)
+15:40:17.3342 [DEBUG]  Keen:         in file: <TORCH_INSTANCE>\content\244850\3154379105\Data\TransparentMaterials.sbc
+15:40:17.3342 [DEBUG]  Keen:         Resource not found, setting to null. Resource path: <TORCH_INSTANCE>\content\244850\3154379105\Textures\Particles\SquareWindowDirtInside_ca.dds

@@ -1,0 +1,15 @@
+Environment / session facts
+===========================
+
+08:12:16.9963 [INFO]   Torch: Torch Version: v1.3.1.340-master
+08:12:16.9963 [INFO]   Torch: Game Version: 1.209.24
+08:12:21.9798 [DEBUG]  Keen: Branch / Sandbox: DedicatedServer
+08:12:21.9998 [DEBUG]  Keen: CPU Info: Intel(R) Core(TM) i5-14400
+08:12:21.9998 [DEBUG]  Keen: Environment.OSVersion: Microsoft Windows 11 Pro (Microsoft Windows NT 6.2.9200.0)
+15:40:49.0309 [DEBUG]  Keen:    Session loaded
+15:39:47.2226 [DEBUG]  Keen:       Script loaded: 3738633660.sbm_OrbitalNpcSpawns, Version=<ASSEMBLY_VERSION>, Culture=neutral, PublicKeyToken=null
+15:39:47.2226 [DEBUG]  Keen:       Script loaded: 1521905890.sbm_ModularEncountersSystems, Version=<ASSEMBLY_VERSION>, Culture=neutral, PublicKeyToken=null
+15:38:31.0814 [DEBUG]  Keen:          TradeFactionsCount = 16
+15:38:31.0814 [DEBUG]  Keen:          EnableEconomy = True
+15:38:31.0814 [DEBUG]  Keen:          CargoShipsEnabled = False
+15:38:31.0814 [DEBUG]  Keen:          EnableEncounters = False

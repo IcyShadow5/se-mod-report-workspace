@@ -1,0 +1,12 @@
+{
+  "ons_intercept_applied": true,
+  "intercepted_grid": "(NPC-PLX) Shadow",
+  "ref_speed_mps": 608.2,
+  "velocity_after_mps_approx": 586.6,
+  "dominant_body": "Queres",
+  "view_distance_m": 8000,
+  "mes_loaded": true,
+  "mes_6500km_warning_found": true,
+  "approx_intercept_distance_from_origin_km": 38730.950824510226,
+  "note": "NPC entity IDs were preserved for log cross-referencing; player identity values are redacted."
+}

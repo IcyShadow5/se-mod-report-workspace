@@ -1,0 +1,1299 @@
+
+
+[2026-06-02 08:59:03] Client version: no bootstrapper found
+[2026-06-02 08:59:03] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+
+
+[2026-06-02 09:03:48] Client version: no bootstrapper found
+[2026-06-02 09:03:48] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+
+
+[2026-06-02 09:07:53] Client version: no bootstrapper found
+[2026-06-02 09:07:53] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+
+
+[2026-06-02 09:29:48] Client version: no bootstrapper found
+[2026-06-02 09:29:48] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+
+
+[2026-06-02 09:36:28] Client version: no bootstrapper found
+[2026-06-02 09:36:28] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+
+
+[2026-06-02 09:40:16] Client version: no bootstrapper found
+[2026-06-02 09:40:16] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-02 09:40:20] [AppID 244850] GetDetails request 0x1 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-02 09:40:21] [AppID 244850] GetDetails request 0x2 - batch (0-2 of 2) => not in cache, requesting from Steam
+[2026-06-02 09:40:21] [AppID 244850] Unloaded installed workshop items
+[2026-06-02 09:40:21] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (0 installed, 0 needed)
+[2026-06-02 09:40:21] [AppID 244850] GetDetails request 0x3 - batch (0-9 of 9) => not in cache, requesting from Steam
+[2026-06-02 09:40:22] [AppID 244850] Download item 2626756831 requested by app
+[2026-06-02 09:40:22] [AppID 244850] Starting Workshop download job (requested item 2626756831 )
+[2026-06-02 09:40:22] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2626756831, new manifest 6054716555889182816
+[2026-06-02 09:40:22] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-02 09:40:24] [AppID 244850] Download item 2626756831 result : OK
+[2026-06-02 09:40:24] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-02 09:40:24] [AppID 244850] Download item 2113827172 requested by app
+[2026-06-02 09:40:24] [AppID 244850] Starting Workshop download job (requested item 2113827172 )
+[2026-06-02 09:40:25] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2113827172, new manifest 583559965794984833
+[2026-06-02 09:40:25] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-02 09:40:26] [AppID 244850] Download item 2113827172 result : OK
+[2026-06-02 09:40:26] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-02 09:40:26] [AppID 244850] Download item 1965654081 requested by app
+[2026-06-02 09:40:26] [AppID 244850] Starting Workshop download job (requested item 1965654081 )
+[2026-06-02 09:40:26] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1965654081, new manifest 2978641466782358069
+[2026-06-02 09:40:26] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-02 09:40:30] [AppID 244850] Download item 1965654081 result : OK
+[2026-06-02 09:40:30] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-02 09:40:30] [AppID 244850] Download item 1697184408 requested by app
+[2026-06-02 09:40:30] [AppID 244850] Starting Workshop download job (requested item 1697184408 )
+[2026-06-02 09:40:30] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1697184408, new manifest 2397714212309875076
+[2026-06-02 09:40:30] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-02 09:40:33] [AppID 244850] Download item 1697184408 result : OK
+[2026-06-02 09:40:33] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-02 09:40:33] [AppID 244850] Download item 1469072169 requested by app
+[2026-06-02 09:40:33] [AppID 244850] Starting Workshop download job (requested item 1469072169 )
+[2026-06-02 09:40:33] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1469072169, new manifest 4051823798293819621
+[2026-06-02 09:40:33] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-02 09:40:35] [AppID 244850] Download item 1469072169 result : OK
+[2026-06-02 09:40:35] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-02 09:40:35] [AppID 244850] Download item 801185519 requested by app
+[2026-06-02 09:40:35] [AppID 244850] Starting Workshop download job (requested item 801185519 )
+[2026-06-02 09:40:35] [AppID 244850] Detected workshop change (latest from server) : changed cached item 801185519, new manifest 6345225720878219065
+[2026-06-02 09:40:35] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-02 09:40:44] [AppID 244850] Download item 801185519 result : OK
+[2026-06-02 09:40:44] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-02 09:40:44] [AppID 244850] Download item 514062285 requested by app
+[2026-06-02 09:40:44] [AppID 244850] Starting Workshop download job (requested item 514062285 )
+[2026-06-02 09:40:44] [AppID 244850] Detected workshop change (latest from server) : changed cached item 514062285, new manifest 3124347231687462034
+[2026-06-02 09:40:44] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-02 09:40:50] [AppID 244850] Download item 514062285 result : OK
+[2026-06-02 09:40:50] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-02 09:40:50] [AppID 244850] Download item 3170315974 requested by app
+[2026-06-02 09:40:50] [AppID 244850] Starting Workshop download job (requested item 3170315974 )
+[2026-06-02 09:40:50] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3170315974, new manifest 2493485392786000784
+[2026-06-02 09:40:50] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-02 09:40:52] [AppID 244850] Download item 3170315974 result : OK
+[2026-06-02 09:40:52] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-02 09:40:52] [AppID 244850] Download item 758597413 requested by app
+[2026-06-02 09:40:52] [AppID 244850] Starting Workshop download job (requested item 758597413 )
+[2026-06-02 09:40:52] [AppID 244850] Detected workshop change (latest from server) : changed cached item 758597413, new manifest 8144833970592824204
+[2026-06-02 09:40:52] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-02 09:40:54] [AppID 244850] Download item 758597413 result : OK
+[2026-06-02 09:40:54] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-02 09:40:54] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-02 09:42:38] Client version: no bootstrapper found
+[2026-06-02 09:42:38] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-02 09:42:41] [AppID 244850] GetDetails request 0x1 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-02 09:42:42] [AppID 244850] GetDetails request 0x2 - batch (0-2 of 2) => not in cache, requesting from Steam
+[2026-06-02 09:42:42] [AppID 244850] Unloaded installed workshop items
+[2026-06-02 09:42:42] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (9 installed, 9 needed)
+[2026-06-02 09:42:42] [AppID 244850] GetDetails request 0x3 - batch (0-9 of 9) => not in cache, requesting from Steam
+[2026-06-02 09:42:43] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-02 09:45:40] Client version: no bootstrapper found
+[2026-06-02 09:45:40] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-02 09:45:44] [AppID 244850] GetDetails request 0x1 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-02 09:45:44] [AppID 244850] GetDetails request 0x2 - batch (0-2 of 2) => not in cache, requesting from Steam
+[2026-06-02 09:45:44] [AppID 244850] Unloaded installed workshop items
+[2026-06-02 09:45:44] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (9 installed, 9 needed)
+[2026-06-02 09:45:44] [AppID 244850] GetDetails request 0x3 - batch (0-9 of 9) => not in cache, requesting from Steam
+[2026-06-02 09:45:46] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-02 09:50:48] Client version: no bootstrapper found
+[2026-06-02 09:50:48] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-02 09:50:52] [AppID 244850] GetDetails request 0x1 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-02 09:50:52] [AppID 244850] GetDetails request 0x2 - batch (0-2 of 2) => not in cache, requesting from Steam
+[2026-06-02 09:50:52] [AppID 244850] Unloaded installed workshop items
+[2026-06-02 09:50:52] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (9 installed, 9 needed)
+[2026-06-02 09:50:52] [AppID 244850] GetDetails request 0x3 - batch (0-9 of 9) => not in cache, requesting from Steam
+[2026-06-02 09:50:54] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-02 09:55:11] Client version: no bootstrapper found
+[2026-06-02 09:55:11] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-02 09:55:14] [AppID 244850] GetDetails request 0x1 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-02 09:55:14] [AppID 244850] GetDetails request 0x2 - batch (0-2 of 2) => not in cache, requesting from Steam
+[2026-06-02 09:55:15] [AppID 244850] Unloaded installed workshop items
+[2026-06-02 09:55:15] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (9 installed, 9 needed)
+[2026-06-02 09:55:15] [AppID 244850] GetDetails request 0x3 - batch (0-9 of 9) => not in cache, requesting from Steam
+[2026-06-02 09:55:16] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-02 10:00:39] Client version: no bootstrapper found
+[2026-06-02 10:00:39] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-02 10:00:43] [AppID 244850] GetDetails request 0x1 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-02 10:00:43] [AppID 244850] GetDetails request 0x2 - batch (0-2 of 2) => not in cache, requesting from Steam
+[2026-06-02 10:00:43] [AppID 244850] Unloaded installed workshop items
+[2026-06-02 10:00:43] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (9 installed, 9 needed)
+[2026-06-02 10:00:43] [AppID 244850] GetDetails request 0x3 - batch (0-9 of 9) => not in cache, requesting from Steam
+[2026-06-02 10:00:45] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-02 10:11:23] Client version: no bootstrapper found
+[2026-06-02 10:11:23] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-02 10:11:26] [AppID 244850] GetDetails request 0x1 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-02 10:11:27] [AppID 244850] GetDetails request 0x2 - batch (0-2 of 2) => not in cache, requesting from Steam
+[2026-06-02 10:11:27] [AppID 244850] Unloaded installed workshop items
+[2026-06-02 10:11:27] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (9 installed, 9 needed)
+[2026-06-02 10:11:27] [AppID 244850] GetDetails request 0x3 - batch (0-9 of 9) => not in cache, requesting from Steam
+[2026-06-02 10:11:28] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-02 10:26:17] Client version: no bootstrapper found
+[2026-06-02 10:26:17] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-02 10:26:20] [AppID 244850] GetDetails request 0x1 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-02 10:26:20] [AppID 244850] GetDetails request 0x2 - batch (0-2 of 2) => not in cache, requesting from Steam
+[2026-06-02 10:26:20] [AppID 244850] Unloaded installed workshop items
+[2026-06-02 10:26:20] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (9 installed, 9 needed)
+[2026-06-02 10:26:20] [AppID 244850] GetDetails request 0x3 - batch (0-9 of 9) => not in cache, requesting from Steam
+[2026-06-02 10:26:22] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-02 10:37:21] Client version: no bootstrapper found
+[2026-06-02 10:37:21] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-02 10:37:30] [AppID 244850] GetDetails request 0x1 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-02 10:37:30] [AppID 244850] GetDetails request 0x2 - batch (0-2 of 2) => not in cache, requesting from Steam
+[2026-06-02 10:37:31] [AppID 244850] Unloaded installed workshop items
+[2026-06-02 10:37:31] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (9 installed, 9 needed)
+[2026-06-02 10:37:31] [AppID 244850] GetDetails request 0x3 - batch (0-9 of 9) => not in cache, requesting from Steam
+[2026-06-02 10:37:32] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-02 11:13:11] Client version: no bootstrapper found
+[2026-06-02 11:13:11] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-02 11:13:14] [AppID 244850] GetDetails request 0x1 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-02 11:13:15] [AppID 244850] GetDetails request 0x2 - batch (0-2 of 2) => not in cache, requesting from Steam
+[2026-06-02 11:13:15] [AppID 244850] Unloaded installed workshop items
+[2026-06-02 11:13:15] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (9 installed, 9 needed)
+[2026-06-02 11:13:15] [AppID 244850] GetDetails request 0x3 - batch (0-9 of 9) => not in cache, requesting from Steam
+[2026-06-02 11:13:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-02 11:58:17] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-03 13:59:28] Client version: no bootstrapper found
+[2026-06-03 13:59:28] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 13:59:32] [AppID 244850] GetDetails request 0x1 - batch (0-13 of 13) => not in cache, requesting from Steam
+[2026-06-03 13:59:33] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-03 13:59:33] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 13:59:33] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (9 installed, 9 needed)
+[2026-06-03 13:59:33] [AppID 244850] GetDetails request 0x3 - batch (0-14 of 14) => not in cache, requesting from Steam
+[2026-06-03 13:59:33] [AppID 244850] Download item 3707426899 requested by app
+[2026-06-03 13:59:33] [AppID 244850] Starting Workshop download job (requested item 3707426899 )
+[2026-06-03 13:59:34] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3707426899, new manifest 7973317709948039703
+[2026-06-03 13:59:34] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 13:59:38] [AppID 244850] Download item 3707426899 result : OK
+[2026-06-03 13:59:38] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 13:59:38] [AppID 244850] Download item 2777644246 requested by app
+[2026-06-03 13:59:38] [AppID 244850] Starting Workshop download job (requested item 2777644246 )
+[2026-06-03 13:59:38] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2777644246, new manifest 2724118208533373316
+[2026-06-03 13:59:38] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 13:59:40] [AppID 244850] Download item 2777644246 result : OK
+[2026-06-03 13:59:40] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 13:59:40] [AppID 244850] Download item 2754014019 requested by app
+[2026-06-03 13:59:40] [AppID 244850] Starting Workshop download job (requested item 2754014019 )
+[2026-06-03 13:59:40] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2754014019, new manifest 6336919021344352164
+[2026-06-03 13:59:40] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 13:59:41] [AppID 244850] Download item 2754014019 result : OK
+[2026-06-03 13:59:41] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 13:59:41] [AppID 244850] Download item 2046319599 requested by app
+[2026-06-03 13:59:41] [AppID 244850] Starting Workshop download job (requested item 2046319599 )
+[2026-06-03 13:59:41] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2046319599, new manifest 3206012280986914470
+[2026-06-03 13:59:41] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 13:59:43] [AppID 244850] Download item 2046319599 result : OK
+[2026-06-03 13:59:43] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 13:59:43] [AppID 244850] Download item 1359618037 requested by app
+[2026-06-03 13:59:43] [AppID 244850] Starting Workshop download job (requested item 1359618037 )
+[2026-06-03 13:59:43] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1359618037, new manifest 6439662361788416999
+[2026-06-03 13:59:43] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 13:59:44] [AppID 244850] Download item 1359618037 result : OK
+[2026-06-03 13:59:44] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 13:59:44] [AppID 244850] Download item 500818376 requested by app
+[2026-06-03 13:59:44] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-03 13:59:44] [AppID 244850] Starting Workshop download job (requested item 500818376 )
+[2026-06-03 13:59:45] [AppID 244850] Detected workshop change (latest from server) : changed cached item 500818376, new manifest 362203621299275057
+[2026-06-03 13:59:45] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 13:59:47] [AppID 244850] Download item 500818376 result : OK
+[2026-06-03 13:59:47] [AppID 244850] Finished Workshop download job : No Error
+
+
+[2026-06-03 14:41:38] Client version: no bootstrapper found
+[2026-06-03 14:41:38] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 14:41:41] [AppID 244850] GetDetails request 0x1 - batch (0-13 of 13) => not in cache, requesting from Steam
+[2026-06-03 14:41:41] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-03 14:41:42] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 14:41:42] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (15 installed, 15 needed)
+[2026-06-03 14:41:42] [AppID 244850] GetDetails request 0x3 - batch (0-14 of 14) => not in cache, requesting from Steam
+[2026-06-03 14:41:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-03 15:26:44] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-03 19:04:28] Client version: no bootstrapper found
+[2026-06-03 19:04:28] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 19:04:34] [AppID 244850] GetDetails request 0x1 - batch (0-17 of 17) => not in cache, requesting from Steam
+[2026-06-03 19:04:36] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 19:04:36] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (15 installed, 15 needed)
+[2026-06-03 19:04:36] [AppID 244850] GetDetails request 0x2 - batch (0-17 of 17) => not in cache, requesting from Steam
+[2026-06-03 19:04:36] [AppID 244850] Download item 3219800568 requested by app
+[2026-06-03 19:04:36] [AppID 244850] Starting Workshop download job (requested item 3219800568 )
+[2026-06-03 19:04:36] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3219800568, new manifest 6404436792090071680
+[2026-06-03 19:04:36] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 19:04:43] [AppID 244850] Download item 3219800568 result : OK
+[2026-06-03 19:04:43] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 19:04:43] [AppID 244850] Download item 3218645300 requested by app
+[2026-06-03 19:04:43] [AppID 244850] Starting Workshop download job (requested item 3218645300 )
+[2026-06-03 19:04:43] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3218645300, new manifest 660258419898439794
+[2026-06-03 19:04:43] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 19:04:46] [AppID 244850] Download item 3218645300 result : OK
+[2026-06-03 19:04:46] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 19:04:46] [AppID 244850] Download item 2756894170 requested by app
+[2026-06-03 19:04:46] [AppID 244850] Starting Workshop download job (requested item 2756894170 )
+[2026-06-03 19:04:47] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2756894170, new manifest 6577106617031406808
+[2026-06-03 19:04:47] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 19:04:50] [AppID 244850] Download item 2756894170 result : OK
+[2026-06-03 19:04:50] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 19:04:50] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-03 19:09:08] Client version: no bootstrapper found
+[2026-06-03 19:09:08] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 19:09:11] [AppID 244850] GetDetails request 0x1 - batch (0-21 of 21) => not in cache, requesting from Steam
+[2026-06-03 19:09:12] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 19:09:12] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (18 installed, 18 needed)
+[2026-06-03 19:09:12] [AppID 244850] GetDetails request 0x2 - batch (0-21 of 21) => not in cache, requesting from Steam
+[2026-06-03 19:09:12] [AppID 244850] Download item 3484985745 requested by app
+[2026-06-03 19:09:12] [AppID 244850] Starting Workshop download job (requested item 3484985745 )
+[2026-06-03 19:09:12] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3484985745, new manifest 6127215144590309112
+[2026-06-03 19:09:12] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 19:09:16] [AppID 244850] Download item 3484985745 result : OK
+[2026-06-03 19:09:16] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 19:09:16] [AppID 244850] Download item 3243095668 requested by app
+[2026-06-03 19:09:16] [AppID 244850] Starting Workshop download job (requested item 3243095668 )
+[2026-06-03 19:09:16] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3243095668, new manifest 8087824340437527065
+[2026-06-03 19:09:16] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 19:09:18] [AppID 244850] Download item 3243095668 result : OK
+[2026-06-03 19:09:18] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 19:09:18] [AppID 244850] Download item 2266109786 requested by app
+[2026-06-03 19:09:18] [AppID 244850] Starting Workshop download job (requested item 2266109786 )
+[2026-06-03 19:09:18] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2266109786, new manifest 3706768084335642017
+[2026-06-03 19:09:18] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 19:09:19] [AppID 244850] Download item 2266109786 result : OK
+[2026-06-03 19:09:19] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 19:09:19] [AppID 244850] Download item 571920453 requested by app
+[2026-06-03 19:09:19] [AppID 244850] Starting Workshop download job (requested item 571920453 )
+[2026-06-03 19:09:19] [AppID 244850] Detected workshop change (latest from server) : changed cached item 571920453, new manifest 2994852692838573870
+[2026-06-03 19:09:19] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 19:09:23] [AppID 244850] Download item 571920453 result : OK
+[2026-06-03 19:09:23] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 19:09:23] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-03 19:11:16] Client version: no bootstrapper found
+[2026-06-03 19:11:16] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 19:11:20] [AppID 244850] GetDetails request 0x1 - batch (0-22 of 22) => not in cache, requesting from Steam
+[2026-06-03 19:11:20] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 19:11:20] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (22 installed, 22 needed)
+[2026-06-03 19:11:20] [AppID 244850] GetDetails request 0x2 - batch (0-22 of 22) => not in cache, requesting from Steam
+[2026-06-03 19:11:21] [AppID 244850] Download item 3220848664 requested by app
+[2026-06-03 19:11:21] [AppID 244850] Starting Workshop download job (requested item 3220848664 )
+[2026-06-03 19:11:21] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3220848664, new manifest 9108361142423961174
+[2026-06-03 19:11:21] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 19:11:23] [AppID 244850] Download item 3220848664 result : OK
+[2026-06-03 19:11:23] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 19:11:23] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-03 20:02:09] Client version: no bootstrapper found
+[2026-06-03 20:02:09] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 20:02:13] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-03 20:02:14] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-03 20:02:14] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 20:02:14] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (23 installed, 23 needed)
+[2026-06-03 20:02:14] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-03 20:02:14] [AppID 244850] Download item 3365172783 requested by app
+[2026-06-03 20:02:14] [AppID 244850] Starting Workshop download job (requested item 3365172783 )
+[2026-06-03 20:02:15] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3365172783, new manifest 1787308522023015519
+[2026-06-03 20:02:15] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 20:02:19] [AppID 244850] Download item 3365172783 result : OK
+[2026-06-03 20:02:19] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 20:02:19] [AppID 244850] Download item 3248252962 requested by app
+[2026-06-03 20:02:19] [AppID 244850] Starting Workshop download job (requested item 3248252962 )
+[2026-06-03 20:02:19] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3248252962, new manifest 8978214781423357718
+[2026-06-03 20:02:19] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 20:02:22] [AppID 244850] Download item 3248252962 result : OK
+[2026-06-03 20:02:22] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 20:02:22] [AppID 244850] Download item 2921132802 requested by app
+[2026-06-03 20:02:22] [AppID 244850] Starting Workshop download job (requested item 2921132802 )
+[2026-06-03 20:02:23] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2921132802, new manifest 8532058373562579909
+[2026-06-03 20:02:23] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 20:02:24] [AppID 244850] Download item 2921132802 result : OK
+[2026-06-03 20:02:24] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 20:02:24] [AppID 244850] Download item 2581520240 requested by app
+[2026-06-03 20:02:24] [AppID 244850] Starting Workshop download job (requested item 2581520240 )
+[2026-06-03 20:02:25] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2581520240, new manifest 5658194126272003443
+[2026-06-03 20:02:25] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 20:02:26] [AppID 244850] Download item 2581520240 result : OK
+[2026-06-03 20:02:26] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 20:02:26] [AppID 244850] Download item 1592304459 requested by app
+[2026-06-03 20:02:26] [AppID 244850] Starting Workshop download job (requested item 1592304459 )
+[2026-06-03 20:02:26] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1592304459, new manifest 7126748850627614408
+[2026-06-03 20:02:26] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 20:02:28] [AppID 244850] Download item 1592304459 result : OK
+[2026-06-03 20:02:28] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 20:02:28] [AppID 244850] Download item 806331071 requested by app
+[2026-06-03 20:02:28] [AppID 244850] Starting Workshop download job (requested item 806331071 )
+[2026-06-03 20:02:29] [AppID 244850] Detected workshop change (latest from server) : changed cached item 806331071, new manifest 6639432654216216846
+[2026-06-03 20:02:29] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 20:02:30] [AppID 244850] Download item 806331071 result : OK
+[2026-06-03 20:02:30] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 20:02:30] [AppID 244850] Download item 2880317963 requested by app
+[2026-06-03 20:02:30] [AppID 244850] Starting Workshop download job (requested item 2880317963 )
+[2026-06-03 20:02:30] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2880317963, new manifest 6023446936954637544
+[2026-06-03 20:02:30] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 20:02:34] [AppID 244850] Download item 2880317963 result : OK
+[2026-06-03 20:02:34] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 20:02:34] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-03 20:06:20] Client version: no bootstrapper found
+[2026-06-03 20:06:20] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 20:06:23] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-03 20:06:24] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-03 20:06:24] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 20:06:24] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (30 installed, 30 needed)
+[2026-06-03 20:06:24] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-03 20:06:25] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-03 20:12:34] Client version: no bootstrapper found
+[2026-06-03 20:12:34] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 20:12:38] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-03 20:12:38] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-03 20:12:39] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 20:12:39] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (30 installed, 30 needed)
+[2026-06-03 20:12:39] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-03 20:12:40] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-03 20:48:19] Client version: no bootstrapper found
+[2026-06-03 20:48:19] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 20:48:23] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-03 20:48:24] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-03 20:48:24] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 20:48:24] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (30 installed, 30 needed)
+[2026-06-03 20:48:24] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-03 20:48:25] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-03 21:06:52] Client version: no bootstrapper found
+[2026-06-03 21:06:52] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 21:06:56] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-03 21:06:56] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-03 21:06:57] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 21:06:57] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (30 installed, 30 needed)
+[2026-06-03 21:06:57] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-03 21:06:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-03 21:51:59] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-03 23:18:54] Client version: no bootstrapper found
+[2026-06-03 23:18:54] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-03 23:18:59] [AppID 244850] GetDetails request 0x1 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-03 23:19:00] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-03 23:19:00] [AppID 244850] Unloaded installed workshop items
+[2026-06-03 23:19:00] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (30 installed, 30 needed)
+[2026-06-03 23:19:00] [AppID 244850] GetDetails request 0x3 - batch (0-30 of 30) => not in cache, requesting from Steam
+[2026-06-03 23:19:01] [AppID 244850] Download item 1973825674 requested by app
+[2026-06-03 23:19:01] [AppID 244850] Starting Workshop download job (requested item 1973825674 )
+[2026-06-03 23:19:01] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1973825674, new manifest 2257068011873680397
+[2026-06-03 23:19:01] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-03 23:19:03] [AppID 244850] Download item 1973825674 result : OK
+[2026-06-03 23:19:03] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-03 23:19:03] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-04 02:54:16] Client version: no bootstrapper found
+[2026-06-04 02:54:16] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-04 02:54:19] [AppID 244850] GetDetails request 0x1 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-04 02:54:20] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-04 02:54:21] [AppID 244850] Unloaded installed workshop items
+[2026-06-04 02:54:21] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-04 02:54:21] [AppID 244850] GetDetails request 0x3 - batch (0-30 of 30) => not in cache, requesting from Steam
+[2026-06-04 02:54:22] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-04 02:56:51] Client version: no bootstrapper found
+[2026-06-04 02:56:51] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-04 02:56:55] [AppID 244850] GetDetails request 0x1 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-04 02:56:56] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-04 02:56:56] [AppID 244850] Unloaded installed workshop items
+[2026-06-04 02:56:56] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-04 02:56:56] [AppID 244850] GetDetails request 0x3 - batch (0-30 of 30) => not in cache, requesting from Steam
+[2026-06-04 02:56:57] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-04 03:43:09] Client version: no bootstrapper found
+[2026-06-04 03:43:09] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-04 03:43:12] [AppID 244850] GetDetails request 0x1 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-04 03:43:13] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-04 03:43:13] [AppID 244850] Unloaded installed workshop items
+[2026-06-04 03:43:13] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-04 03:43:13] [AppID 244850] GetDetails request 0x3 - batch (0-30 of 30) => not in cache, requesting from Steam
+[2026-06-04 03:43:14] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-04 03:53:24] Client version: no bootstrapper found
+[2026-06-04 03:53:24] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-04 03:53:29] [AppID 244850] GetDetails request 0x1 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-04 03:53:30] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-04 03:53:30] [AppID 244850] Unloaded installed workshop items
+[2026-06-04 03:53:30] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-04 03:53:30] [AppID 244850] GetDetails request 0x3 - batch (0-30 of 30) => not in cache, requesting from Steam
+[2026-06-04 03:53:31] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-04 12:58:57] Client version: no bootstrapper found
+[2026-06-04 12:58:57] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-04 12:59:03] [AppID 244850] GetDetails request 0x1 - batch (0-29 of 29) => not in cache, requesting from Steam
+
+
+[2026-06-04 13:00:34] Client version: no bootstrapper found
+[2026-06-04 13:00:34] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-04 13:00:38] [AppID 244850] GetDetails request 0x1 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-04 13:00:38] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-04 13:00:39] [AppID 244850] Unloaded installed workshop items
+[2026-06-04 13:00:39] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-04 13:00:39] [AppID 244850] GetDetails request 0x3 - batch (0-30 of 30) => not in cache, requesting from Steam
+[2026-06-04 13:00:40] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-04 13:31:06] Client version: no bootstrapper found
+[2026-06-04 13:31:06] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-04 13:31:19] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-04 13:31:22] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-04 13:31:23] [AppID 244850] Unloaded installed workshop items
+[2026-06-04 13:31:23] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-04 13:31:23] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-04 13:31:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-04 14:16:25] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-04 15:01:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-04 15:46:31] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-04 16:31:32] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-04 21:01:51] Client version: no bootstrapper found
+[2026-06-04 21:01:51] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-04 21:01:58] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-04 21:01:59] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-04 21:02:00] [AppID 244850] Unloaded installed workshop items
+[2026-06-04 21:02:00] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-04 21:02:00] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-04 21:02:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-04 21:47:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-04 22:32:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-04 23:17:04] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-05 00:02:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-05 00:47:07] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-05 18:49:22] Client version: no bootstrapper found
+[2026-06-05 18:49:22] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-05 18:49:25] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-05 18:49:26] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-05 18:49:27] [AppID 244850] Unloaded installed workshop items
+[2026-06-05 18:49:27] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-05 18:49:27] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-05 18:49:28] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-05 18:52:20] Client version: no bootstrapper found
+[2026-06-05 18:52:20] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-05 18:52:23] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-05 18:52:24] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-05 18:52:24] [AppID 244850] Unloaded installed workshop items
+[2026-06-05 18:52:24] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-05 18:52:24] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-05 18:52:25] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-05 19:02:11] Client version: no bootstrapper found
+[2026-06-05 19:02:11] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-05 19:02:14] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-05 19:02:14] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-05 19:02:15] [AppID 244850] Unloaded installed workshop items
+[2026-06-05 19:02:15] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-05 19:02:15] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-05 19:02:16] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-05 19:06:43] Client version: no bootstrapper found
+[2026-06-05 19:06:43] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-05 19:06:47] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-05 19:06:48] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-05 19:06:48] [AppID 244850] Unloaded installed workshop items
+[2026-06-05 19:06:48] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-05 19:06:48] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-05 19:06:49] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-05 22:25:08] Client version: no bootstrapper found
+[2026-06-05 22:25:08] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+
+
+[2026-06-05 22:25:52] Client version: no bootstrapper found
+[2026-06-05 22:25:52] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-05 22:25:56] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-05 22:25:57] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-05 22:25:57] [AppID 244850] Unloaded installed workshop items
+[2026-06-05 22:25:57] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-05 22:25:57] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-05 22:25:59] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-05 22:46:49] Client version: no bootstrapper found
+[2026-06-05 22:46:49] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-05 22:46:54] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-05 22:46:54] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-05 22:46:54] [AppID 244850] Unloaded installed workshop items
+[2026-06-05 22:46:54] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-05 22:46:54] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-05 22:46:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-05 23:31:57] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 00:16:58] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 01:01:59] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 01:47:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 02:32:02] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 03:17:03] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 04:02:05] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 04:47:06] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 05:32:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 06:17:10] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 07:02:11] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 07:47:12] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 08:32:13] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 09:17:15] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 10:02:16] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 10:47:17] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 11:32:18] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 12:17:20] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 13:02:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 13:47:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 14:32:23] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-06 15:01:10] Client version: no bootstrapper found
+[2026-06-06 15:01:10] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-06 15:01:18] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-06 15:01:19] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-06 15:01:19] [AppID 244850] Unloaded installed workshop items
+[2026-06-06 15:01:19] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-06 15:01:19] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-06 15:01:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 15:46:22] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 16:31:23] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-06 16:46:29] Client version: no bootstrapper found
+[2026-06-06 16:46:29] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-06 16:46:34] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-06 16:46:34] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-06 16:46:34] [AppID 244850] Unloaded installed workshop items
+[2026-06-06 16:46:34] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-06 16:46:34] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-06 16:46:36] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 17:31:37] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 18:16:38] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-06 19:45:47] Client version: no bootstrapper found
+[2026-06-06 19:45:47] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-06 19:45:54] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-06 19:45:55] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-06 19:45:56] [AppID 244850] Unloaded installed workshop items
+[2026-06-06 19:45:56] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-06 19:45:56] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-06 19:45:57] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-06 19:53:21] Client version: no bootstrapper found
+[2026-06-06 19:53:21] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-06 19:53:25] [AppID 244850] GetDetails request 0x1 - batch (0-28 of 28) => not in cache, requesting from Steam
+[2026-06-06 19:53:27] [AppID 244850] GetDetails request 0x2 - batch (0-1 of 1) => not in cache, requesting from Steam
+[2026-06-06 19:53:27] [AppID 244850] Unloaded installed workshop items
+[2026-06-06 19:53:27] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-06 19:53:27] [AppID 244850] GetDetails request 0x3 - batch (0-29 of 29) => not in cache, requesting from Steam
+[2026-06-06 19:53:28] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-06 20:55:13] Client version: no bootstrapper found
+[2026-06-06 20:55:13] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-06 20:55:17] [AppID 244850] GetDetails request 0x1 - batch (0-38 of 38) => not in cache, requesting from Steam
+[2026-06-06 20:55:17] [AppID 244850] Unloaded installed workshop items
+[2026-06-06 20:55:17] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (31 installed, 31 needed)
+[2026-06-06 20:55:17] [AppID 244850] GetDetails request 0x2 - batch (0-38 of 38) => not in cache, requesting from Steam
+[2026-06-06 20:55:17] [AppID 244850] Download item 3687605561 requested by app
+[2026-06-06 20:55:17] [AppID 244850] Starting Workshop download job (requested item 3687605561 )
+[2026-06-06 20:55:17] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3687605561, new manifest 4128183946566218312
+[2026-06-06 20:55:17] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 20:55:20] [AppID 244850] Download item 3687605561 result : OK
+[2026-06-06 20:55:20] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 20:55:20] [AppID 244850] Download item 3666257228 requested by app
+[2026-06-06 20:55:20] [AppID 244850] Starting Workshop download job (requested item 3666257228 )
+[2026-06-06 20:55:20] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3666257228, new manifest 4087072230146881131
+[2026-06-06 20:55:20] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 20:55:26] [AppID 244850] Download item 3666257228 result : OK
+[2026-06-06 20:55:26] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 20:55:26] [AppID 244850] Download item 3640942866 requested by app
+[2026-06-06 20:55:26] [AppID 244850] Starting Workshop download job (requested item 3640942866 )
+[2026-06-06 20:55:27] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3640942866, new manifest 1891573900472972954
+[2026-06-06 20:55:27] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 20:55:29] [AppID 244850] Download item 3640942866 result : OK
+[2026-06-06 20:55:29] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 20:55:29] [AppID 244850] Download item 3056191745 requested by app
+[2026-06-06 20:55:29] [AppID 244850] Starting Workshop download job (requested item 3056191745 )
+[2026-06-06 20:55:29] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3056191745, new manifest 5520986223167643103
+[2026-06-06 20:55:29] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 20:55:30] [AppID 244850] Download item 3056191745 result : OK
+[2026-06-06 20:55:30] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 20:55:30] [AppID 244850] Download item 2360788836 requested by app
+[2026-06-06 20:55:30] [AppID 244850] Starting Workshop download job (requested item 2360788836 )
+[2026-06-06 20:55:31] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2360788836, new manifest 8947808175039720151
+[2026-06-06 20:55:31] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 20:55:33] [AppID 244850] Download item 2360788836 result : OK
+[2026-06-06 20:55:33] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 20:55:33] [AppID 244850] Download item 2267007067 requested by app
+[2026-06-06 20:55:33] [AppID 244850] Starting Workshop download job (requested item 2267007067 )
+[2026-06-06 20:55:33] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2267007067, new manifest 8840405565385769908
+[2026-06-06 20:55:33] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 20:55:35] [AppID 244850] Download item 2267007067 result : OK
+[2026-06-06 20:55:35] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 20:55:35] [AppID 244850] Download item 1662953858 requested by app
+[2026-06-06 20:55:35] [AppID 244850] Starting Workshop download job (requested item 1662953858 )
+[2026-06-06 20:55:35] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1662953858, new manifest 93412256926880999
+[2026-06-06 20:55:35] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 20:55:38] [AppID 244850] Download item 1662953858 result : OK
+[2026-06-06 20:55:38] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 20:55:38] [AppID 244850] Download item 1289485324 requested by app
+[2026-06-06 20:55:38] [AppID 244850] Starting Workshop download job (requested item 1289485324 )
+[2026-06-06 20:55:38] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1289485324, new manifest 1672288354771619512
+[2026-06-06 20:55:38] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 20:55:39] [AppID 244850] Download item 1289485324 result : OK
+[2026-06-06 20:55:39] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 20:55:39] [AppID 244850] Download item 570950770 requested by app
+[2026-06-06 20:55:39] [AppID 244850] Starting Workshop download job (requested item 570950770 )
+[2026-06-06 20:55:39] [AppID 244850] Detected workshop change (latest from server) : changed cached item 570950770, new manifest 3494982894632888132
+[2026-06-06 20:55:39] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 20:55:41] [AppID 244850] Download item 570950770 result : OK
+[2026-06-06 20:55:41] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 20:55:41] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-06 21:09:49] Client version: no bootstrapper found
+[2026-06-06 21:09:49] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-06 21:09:52] [AppID 244850] GetDetails request 0x1 - batch (0-38 of 38) => not in cache, requesting from Steam
+[2026-06-06 21:09:53] [AppID 244850] Unloaded installed workshop items
+[2026-06-06 21:09:53] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (40 installed, 40 needed)
+[2026-06-06 21:09:53] [AppID 244850] GetDetails request 0x2 - batch (0-38 of 38) => not in cache, requesting from Steam
+[2026-06-06 21:09:54] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-06 21:40:28] Client version: no bootstrapper found
+[2026-06-06 21:40:28] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-06 21:40:32] [AppID 244850] GetDetails request 0x1 - batch (0-38 of 38) => not in cache, requesting from Steam
+[2026-06-06 21:40:32] [AppID 244850] Unloaded installed workshop items
+[2026-06-06 21:40:32] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (40 installed, 40 needed)
+[2026-06-06 21:40:32] [AppID 244850] GetDetails request 0x2 - batch (0-38 of 38) => not in cache, requesting from Steam
+[2026-06-06 21:40:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 22:25:35] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-06 23:10:14] Client version: no bootstrapper found
+[2026-06-06 23:10:14] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-06 23:10:17] [AppID 244850] GetDetails request 0x1 - batch (0-55 of 55) => not in cache, requesting from Steam
+[2026-06-06 23:10:18] [AppID 244850] GetDetails request 0x2 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-06 23:10:18] [AppID 244850] Unloaded installed workshop items
+[2026-06-06 23:10:18] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (40 installed, 40 needed)
+[2026-06-06 23:10:18] [AppID 244850] GetDetails request 0x3 - batch (0-62 of 62) => not in cache, requesting from Steam
+[2026-06-06 23:10:19] [AppID 244850] Download item 3685862625 requested by app
+[2026-06-06 23:10:19] [AppID 244850] Starting Workshop download job (requested item 3685862625 )
+[2026-06-06 23:10:19] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3685862625, new manifest 2864334259576439500
+[2026-06-06 23:10:19] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:22] [AppID 244850] Download item 3685862625 result : OK
+[2026-06-06 23:10:22] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:22] [AppID 244850] Download item 3506860294 requested by app
+[2026-06-06 23:10:22] [AppID 244850] Starting Workshop download job (requested item 3506860294 )
+[2026-06-06 23:10:22] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3506860294, new manifest 7747285145996760439
+[2026-06-06 23:10:22] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:23] [AppID 244850] Download item 3506860294 result : OK
+[2026-06-06 23:10:23] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:23] [AppID 244850] Download item 2997539634 requested by app
+[2026-06-06 23:10:23] [AppID 244850] Starting Workshop download job (requested item 2997539634 )
+[2026-06-06 23:10:24] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2997539634, new manifest 921304320920517782
+[2026-06-06 23:10:24] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:28] [AppID 244850] Download item 2997539634 result : OK
+[2026-06-06 23:10:28] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:28] [AppID 244850] Download item 2940745842 requested by app
+[2026-06-06 23:10:28] [AppID 244850] Starting Workshop download job (requested item 2940745842 )
+[2026-06-06 23:10:29] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2940745842, new manifest 2288845036791270889
+[2026-06-06 23:10:29] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:30] [AppID 244850] Download item 2940745842 result : OK
+[2026-06-06 23:10:30] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:30] [AppID 244850] Download item 2803081060 requested by app
+[2026-06-06 23:10:30] [AppID 244850] Starting Workshop download job (requested item 2803081060 )
+[2026-06-06 23:10:30] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2803081060, new manifest 5378952767476792182
+[2026-06-06 23:10:30] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:32] [AppID 244850] Download item 2803081060 result : OK
+[2026-06-06 23:10:32] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:32] [AppID 244850] Download item 2649159807 requested by app
+[2026-06-06 23:10:32] [AppID 244850] Starting Workshop download job (requested item 2649159807 )
+[2026-06-06 23:10:32] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2649159807, new manifest 475799639050831608
+[2026-06-06 23:10:32] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:33] [AppID 244850] Download item 2649159807 result : OK
+[2026-06-06 23:10:33] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:33] [AppID 244850] Download item 2596208372 requested by app
+[2026-06-06 23:10:33] [AppID 244850] Starting Workshop download job (requested item 2596208372 )
+[2026-06-06 23:10:34] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2596208372, new manifest 344933508815538535
+[2026-06-06 23:10:34] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:40] [AppID 244850] Download item 2596208372 result : OK
+[2026-06-06 23:10:40] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:40] [AppID 244850] Download item 2308085590 requested by app
+[2026-06-06 23:10:40] [AppID 244850] Starting Workshop download job (requested item 2308085590 )
+[2026-06-06 23:10:40] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2308085590, new manifest 2747038358253809082
+[2026-06-06 23:10:40] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:42] [AppID 244850] Download item 2308085590 result : OK
+[2026-06-06 23:10:42] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:42] [AppID 244850] Download item 1902970975 requested by app
+[2026-06-06 23:10:42] [AppID 244850] Starting Workshop download job (requested item 1902970975 )
+[2026-06-06 23:10:43] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1902970975, new manifest 310538505680153076
+[2026-06-06 23:10:43] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:44] [AppID 244850] Download item 1902970975 result : OK
+[2026-06-06 23:10:44] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:44] [AppID 244850] Download item 1813797680 requested by app
+[2026-06-06 23:10:44] [AppID 244850] Starting Workshop download job (requested item 1813797680 )
+[2026-06-06 23:10:44] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1813797680, new manifest 8477266466062321247
+[2026-06-06 23:10:44] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:46] [AppID 244850] Download item 1813797680 result : OK
+[2026-06-06 23:10:46] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:46] [AppID 244850] Download item 1521905890 requested by app
+[2026-06-06 23:10:46] [AppID 244850] Starting Workshop download job (requested item 1521905890 )
+[2026-06-06 23:10:46] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1521905890, new manifest 7351767530345466452
+[2026-06-06 23:10:46] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:52] [AppID 244850] Download item 1521905890 result : OK
+[2026-06-06 23:10:52] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:52] [AppID 244850] Download item 1135484957 requested by app
+[2026-06-06 23:10:52] [AppID 244850] Starting Workshop download job (requested item 1135484957 )
+[2026-06-06 23:10:52] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1135484957, new manifest 4914617326672463747
+[2026-06-06 23:10:52] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:10:55] [AppID 244850] Download item 1135484957 result : OK
+[2026-06-06 23:10:55] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:10:55] [AppID 244850] Download item 973526550 requested by app
+[2026-06-06 23:10:55] [AppID 244850] Starting Workshop download job (requested item 973526550 )
+[2026-06-06 23:10:55] [AppID 244850] Detected workshop change (latest from server) : changed cached item 973526550, new manifest 3771469671628312722
+[2026-06-06 23:10:55] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:02] [AppID 244850] Download item 973526550 result : OK
+[2026-06-06 23:11:02] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:02] [AppID 244850] Download item 603906728 requested by app
+[2026-06-06 23:11:02] [AppID 244850] Starting Workshop download job (requested item 603906728 )
+[2026-06-06 23:11:02] [AppID 244850] Detected workshop change (latest from server) : changed cached item 603906728, new manifest 1778350859398153013
+[2026-06-06 23:11:02] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:04] [AppID 244850] Download item 603906728 result : OK
+[2026-06-06 23:11:04] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:04] [AppID 244850] Download item 544032930 requested by app
+[2026-06-06 23:11:04] [AppID 244850] Starting Workshop download job (requested item 544032930 )
+[2026-06-06 23:11:04] [AppID 244850] Detected workshop change : changed cached item 544032930, new handle 393297235563058675 
+[2026-06-06 23:11:04] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:05] [AppID 244850] Download item 544032930 result : OK
+[2026-06-06 23:11:05] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:05] [AppID 244850] Download item 445996030 requested by app
+[2026-06-06 23:11:05] [AppID 244850] Starting Workshop download job (requested item 445996030 )
+[2026-06-06 23:11:05] [AppID 244850] Detected workshop change (latest from server) : changed cached item 445996030, new manifest 5204496352931154697
+[2026-06-06 23:11:05] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:07] [AppID 244850] Download item 445996030 result : OK
+[2026-06-06 23:11:07] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:07] [AppID 244850] Download item 317841523 requested by app
+[2026-06-06 23:11:08] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-06 23:11:08] [AppID 244850] Starting Workshop download job (requested item 317841523 )
+[2026-06-06 23:11:08] [AppID 244850] Detected workshop change (latest from server) : changed cached item 317841523, new manifest 2720156039028358888
+[2026-06-06 23:11:08] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:10] [AppID 244850] Download item 317841523 result : OK
+[2026-06-06 23:11:10] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:10] [AppID 244850] Download item 2667547195 requested by app
+[2026-06-06 23:11:10] [AppID 244850] Starting Workshop download job (requested item 2667547195 )
+[2026-06-06 23:11:10] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2667547195, new manifest 5642387250209175760
+[2026-06-06 23:11:10] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:29] [AppID 244850] Download item 2667547195 result : OK
+[2026-06-06 23:11:29] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:29] [AppID 244850] Download item 3017795356 requested by app
+[2026-06-06 23:11:29] [AppID 244850] Starting Workshop download job (requested item 3017795356 )
+[2026-06-06 23:11:29] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3017795356, new manifest 8810758586286068651
+[2026-06-06 23:11:29] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:31] [AppID 244850] Download item 3017795356 result : OK
+[2026-06-06 23:11:31] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:31] [AppID 244850] Download item 3155707452 requested by app
+[2026-06-06 23:11:31] [AppID 244850] Starting Workshop download job (requested item 3155707452 )
+[2026-06-06 23:11:31] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3155707452, new manifest 4435772518236600376
+[2026-06-06 23:11:31] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:40] [AppID 244850] Download item 3155707452 result : OK
+[2026-06-06 23:11:40] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:40] [AppID 244850] Download item 2841920953 requested by app
+[2026-06-06 23:11:40] [AppID 244850] Starting Workshop download job (requested item 2841920953 )
+[2026-06-06 23:11:40] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2841920953, new manifest 3763551835488781720
+[2026-06-06 23:11:40] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:43] [AppID 244850] Download item 2841920953 result : OK
+[2026-06-06 23:11:43] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:43] [AppID 244850] Download item 2839553181 requested by app
+[2026-06-06 23:11:43] [AppID 244850] Starting Workshop download job (requested item 2839553181 )
+[2026-06-06 23:11:44] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2839553181, new manifest 2347446847716228533
+[2026-06-06 23:11:44] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:50] [AppID 244850] Download item 2839553181 result : OK
+[2026-06-06 23:11:50] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:50] [AppID 244850] Download item 2391318591 requested by app
+[2026-06-06 23:11:50] [AppID 244850] Starting Workshop download job (requested item 2391318591 )
+[2026-06-06 23:11:50] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2391318591, new manifest 158943793076344738
+[2026-06-06 23:11:50] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:11:52] [AppID 244850] Download item 2391318591 result : OK
+[2026-06-06 23:11:52] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-06 23:11:52] [AppID 244850] Download item 2336089504 requested by app
+[2026-06-06 23:11:52] [AppID 244850] Starting Workshop download job (requested item 2336089504 )
+[2026-06-06 23:11:52] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2336089504, new manifest 782100663735002106
+[2026-06-06 23:11:52] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-06 23:12:00] [AppID 244850] Download item 2336089504 result : OK
+[2026-06-06 23:12:00] [AppID 244850] Finished Workshop download job : No Error
+
+
+[2026-06-07 00:06:16] Client version: no bootstrapper found
+[2026-06-07 00:06:16] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-07 00:06:21] [AppID 244850] GetDetails request 0x1 - batch (0-55 of 55) => not in cache, requesting from Steam
+[2026-06-07 00:06:21] [AppID 244850] GetDetails request 0x2 - batch (0-7 of 7) => not in cache, requesting from Steam
+[2026-06-07 00:06:22] [AppID 244850] Unloaded installed workshop items
+[2026-06-07 00:06:22] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (64 installed, 64 needed)
+[2026-06-07 00:06:22] [AppID 244850] GetDetails request 0x3 - batch (0-62 of 62) => not in cache, requesting from Steam
+[2026-06-07 00:06:23] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-07 00:51:24] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-07 01:36:25] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-07 02:19:53] Client version: no bootstrapper found
+[2026-06-07 02:19:53] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-07 02:19:58] [AppID 244850] GetDetails request 0x1 - batch (0-77 of 77) => not in cache, requesting from Steam
+[2026-06-07 02:19:59] [AppID 244850] Unloaded installed workshop items
+[2026-06-07 02:19:59] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (64 installed, 64 needed)
+[2026-06-07 02:19:59] [AppID 244850] GetDetails request 0x2 - batch (0-77 of 77) => not in cache, requesting from Steam
+[2026-06-07 02:20:00] [AppID 244850] Download item 3738332556 requested by app
+[2026-06-07 02:20:00] [AppID 244850] Starting Workshop download job (requested item 3738332556 )
+[2026-06-07 02:20:00] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3738332556, new manifest 2569528867268757847
+[2026-06-07 02:20:00] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:02] [AppID 244850] Download item 3738332556 result : OK
+[2026-06-07 02:20:02] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:02] [AppID 244850] Download item 3738283787 requested by app
+[2026-06-07 02:20:02] [AppID 244850] Starting Workshop download job (requested item 3738283787 )
+[2026-06-07 02:20:03] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3738283787, new manifest 2989585720912248124
+[2026-06-07 02:20:03] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:04] [AppID 244850] Download item 3738283787 result : OK
+[2026-06-07 02:20:04] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:04] [AppID 244850] Download item 3738279936 requested by app
+[2026-06-07 02:20:04] [AppID 244850] Starting Workshop download job (requested item 3738279936 )
+[2026-06-07 02:20:04] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3738279936, new manifest 7302751432206001820
+[2026-06-07 02:20:04] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:06] [AppID 244850] Download item 3738279936 result : OK
+[2026-06-07 02:20:06] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:06] [AppID 244850] Download item 3735223103 requested by app
+[2026-06-07 02:20:06] [AppID 244850] Starting Workshop download job (requested item 3735223103 )
+[2026-06-07 02:20:06] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3735223103, new manifest 543182336812135813
+[2026-06-07 02:20:06] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:08] [AppID 244850] Download item 3735223103 result : OK
+[2026-06-07 02:20:08] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:08] [AppID 244850] Download item 3735217223 requested by app
+[2026-06-07 02:20:08] [AppID 244850] Starting Workshop download job (requested item 3735217223 )
+[2026-06-07 02:20:08] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3735217223, new manifest 8146975168481794098
+[2026-06-07 02:20:08] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:09] [AppID 244850] Download item 3735217223 result : OK
+[2026-06-07 02:20:09] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:09] [AppID 244850] Download item 3732208572 requested by app
+[2026-06-07 02:20:09] [AppID 244850] Starting Workshop download job (requested item 3732208572 )
+[2026-06-07 02:20:10] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3732208572, new manifest 8037296149577844434
+[2026-06-07 02:20:10] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:15] [AppID 244850] Download item 3732208572 result : OK
+[2026-06-07 02:20:15] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:15] [AppID 244850] Download item 3728678784 requested by app
+[2026-06-07 02:20:15] [AppID 244850] Starting Workshop download job (requested item 3728678784 )
+[2026-06-07 02:20:15] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3728678784, new manifest 1229024588676124712
+[2026-06-07 02:20:15] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:17] [AppID 244850] Download item 3728678784 result : OK
+[2026-06-07 02:20:17] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:17] [AppID 244850] Download item 3722462565 requested by app
+[2026-06-07 02:20:17] [AppID 244850] Starting Workshop download job (requested item 3722462565 )
+[2026-06-07 02:20:17] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3722462565, new manifest 6658673770949257295
+[2026-06-07 02:20:17] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:18] [AppID 244850] Download item 3722462565 result : OK
+[2026-06-07 02:20:18] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:18] [AppID 244850] Download item 3722445037 requested by app
+[2026-06-07 02:20:18] [AppID 244850] Starting Workshop download job (requested item 3722445037 )
+[2026-06-07 02:20:18] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3722445037, new manifest 8252482165583736798
+[2026-06-07 02:20:18] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:19] [AppID 244850] Download item 3722445037 result : OK
+[2026-06-07 02:20:19] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:19] [AppID 244850] Download item 3721727864 requested by app
+[2026-06-07 02:20:19] [AppID 244850] Starting Workshop download job (requested item 3721727864 )
+[2026-06-07 02:20:20] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3721727864, new manifest 271625632431192292
+[2026-06-07 02:20:20] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:21] [AppID 244850] Download item 3721727864 result : OK
+[2026-06-07 02:20:21] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:21] [AppID 244850] Download item 3706463407 requested by app
+[2026-06-07 02:20:21] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-07 02:20:21] [AppID 244850] Starting Workshop download job (requested item 3706463407 )
+[2026-06-07 02:20:21] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3706463407, new manifest 5257114233476941435
+[2026-06-07 02:20:21] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:23] [AppID 244850] Download item 3706463407 result : OK
+[2026-06-07 02:20:23] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:23] [AppID 244850] Download item 3292046949 requested by app
+[2026-06-07 02:20:23] [AppID 244850] Starting Workshop download job (requested item 3292046949 )
+[2026-06-07 02:20:23] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3292046949, new manifest 6936520865861416873
+[2026-06-07 02:20:23] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:24] [AppID 244850] Download item 3292046949 result : OK
+[2026-06-07 02:20:24] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:24] [AppID 244850] Download item 3292045974 requested by app
+[2026-06-07 02:20:24] [AppID 244850] Starting Workshop download job (requested item 3292045974 )
+[2026-06-07 02:20:25] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3292045974, new manifest 5747832217050977015
+[2026-06-07 02:20:25] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:27] [AppID 244850] Download item 3292045974 result : OK
+[2026-06-07 02:20:27] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:27] [AppID 244850] Download item 2310821218 requested by app
+[2026-06-07 02:20:27] [AppID 244850] Starting Workshop download job (requested item 2310821218 )
+[2026-06-07 02:20:28] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2310821218, new manifest 2788547210435434460
+[2026-06-07 02:20:28] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:33] [AppID 244850] Download item 2310821218 result : OK
+[2026-06-07 02:20:33] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 02:20:33] [AppID 244850] Download item 531659576 requested by app
+[2026-06-07 02:20:33] [AppID 244850] Starting Workshop download job (requested item 531659576 )
+[2026-06-07 02:20:33] [AppID 244850] Detected workshop change (latest from server) : changed cached item 531659576, new manifest 2776866823158016065
+[2026-06-07 02:20:33] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 02:20:46] [AppID 244850] Download item 531659576 result : OK
+[2026-06-07 02:20:46] [AppID 244850] Finished Workshop download job : No Error
+
+
+[2026-06-07 15:46:04] Client version: no bootstrapper found
+[2026-06-07 15:46:04] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-07 15:46:10] [AppID 244850] GetDetails request 0x1 - batch (0-76 of 76) => not in cache, requesting from Steam
+[2026-06-07 15:46:11] [AppID 244850] Unloaded installed workshop items
+[2026-06-07 15:46:11] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (79 installed, 79 needed)
+[2026-06-07 15:46:11] [AppID 244850] GetDetails request 0x2 - batch (0-76 of 76) => not in cache, requesting from Steam
+[2026-06-07 15:46:12] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-07 17:45:19] Client version: no bootstrapper found
+[2026-06-07 17:45:19] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-07 17:45:39] [AppID 244850] GetDetails request 0x1 - batch (0-76 of 76) => not in cache, requesting from Steam
+[2026-06-07 17:45:41] [AppID 244850] Unloaded installed workshop items
+[2026-06-07 17:45:41] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (79 installed, 79 needed)
+[2026-06-07 17:45:41] [AppID 244850] GetDetails request 0x2 - batch (0-76 of 76) => not in cache, requesting from Steam
+[2026-06-07 17:45:42] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-07 18:30:43] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-07 19:15:45] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-07 19:49:38] Client version: no bootstrapper found
+[2026-06-07 19:49:38] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-07 19:49:42] [AppID 244850] GetDetails request 0x1 - batch (0-77 of 77) => not in cache, requesting from Steam
+[2026-06-07 19:49:43] [AppID 244850] Unloaded installed workshop items
+[2026-06-07 19:49:43] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (79 installed, 79 needed)
+[2026-06-07 19:49:43] [AppID 244850] GetDetails request 0x2 - batch (0-77 of 77) => not in cache, requesting from Steam
+[2026-06-07 19:49:43] [AppID 244850] Download item 2096677783 requested by app
+[2026-06-07 19:49:43] [AppID 244850] Starting Workshop download job (requested item 2096677783 )
+[2026-06-07 19:49:43] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2096677783, new manifest 4079708267476198756
+[2026-06-07 19:49:43] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-07 19:49:45] [AppID 244850] Download item 2096677783 result : OK
+[2026-06-07 19:49:45] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-07 19:49:46] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-07 20:34:47] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-07 21:19:48] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-07 22:04:49] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-07 22:49:51] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-07 23:21:41] Client version: no bootstrapper found
+[2026-06-07 23:21:41] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-07 23:21:47] [AppID 244850] GetDetails request 0x1 - batch (0-77 of 77) => not in cache, requesting from Steam
+[2026-06-07 23:21:50] [AppID 244850] Unloaded installed workshop items
+[2026-06-07 23:21:50] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (80 installed, 80 needed)
+[2026-06-07 23:21:50] [AppID 244850] GetDetails request 0x2 - batch (0-77 of 77) => not in cache, requesting from Steam
+[2026-06-07 23:21:51] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-08 00:06:52] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-08 07:27:41] Client version: no bootstrapper found
+[2026-06-08 07:27:41] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-08 07:27:45] [AppID 244850] GetDetails request 0x1 - batch (0-79 of 79) => not in cache, requesting from Steam
+[2026-06-08 07:27:46] [AppID 244850] Unloaded installed workshop items
+[2026-06-08 07:27:46] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (80 installed, 80 needed)
+[2026-06-08 07:27:46] [AppID 244850] GetDetails request 0x2 - batch (0-79 of 79) => not in cache, requesting from Steam
+[2026-06-08 07:27:46] [AppID 244850] Download item 2694751775 requested by app
+[2026-06-08 07:27:46] [AppID 244850] Starting Workshop download job (requested item 2694751775 )
+[2026-06-08 07:27:47] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2694751775, new manifest 322535695994394177
+[2026-06-08 07:27:47] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:27:49] [AppID 244850] Download item 2694751775 result : OK
+[2026-06-08 07:27:49] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:27:49] [AppID 244850] Download item 2077166496 requested by app
+[2026-06-08 07:27:49] [AppID 244850] Starting Workshop download job (requested item 2077166496 )
+[2026-06-08 07:27:50] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2077166496, new manifest 2554604599578139696
+[2026-06-08 07:27:50] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:27:51] [AppID 244850] Download item 2077166496 result : OK
+[2026-06-08 07:27:51] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:27:51] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-08 07:35:55] Client version: no bootstrapper found
+[2026-06-08 07:35:55] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-08 07:35:59] [AppID 244850] GetDetails request 0x1 - batch (0-93 of 93) => not in cache, requesting from Steam
+[2026-06-08 07:36:00] [AppID 244850] Unloaded installed workshop items
+[2026-06-08 07:36:00] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (82 installed, 82 needed)
+[2026-06-08 07:36:00] [AppID 244850] GetDetails request 0x2 - batch (0-93 of 93) => not in cache, requesting from Steam
+[2026-06-08 07:36:00] [AppID 244850] Download item 3572715029 requested by app
+[2026-06-08 07:36:00] [AppID 244850] Starting Workshop download job (requested item 3572715029 )
+[2026-06-08 07:36:01] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3572715029, new manifest 3115269251568504183
+[2026-06-08 07:36:01] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:15] [AppID 244850] Download item 3572715029 result : OK
+[2026-06-08 07:36:15] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:15] [AppID 244850] Download item 3412211521 requested by app
+[2026-06-08 07:36:15] [AppID 244850] Starting Workshop download job (requested item 3412211521 )
+[2026-06-08 07:36:15] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3412211521, new manifest 1298392369653999774
+[2026-06-08 07:36:15] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:17] [AppID 244850] Download item 3412211521 result : OK
+[2026-06-08 07:36:17] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:17] [AppID 244850] Download item 3410188001 requested by app
+[2026-06-08 07:36:17] [AppID 244850] Starting Workshop download job (requested item 3410188001 )
+[2026-06-08 07:36:17] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3410188001, new manifest 7401909256239555168
+[2026-06-08 07:36:17] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:19] [AppID 244850] Download item 3410188001 result : OK
+[2026-06-08 07:36:19] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:19] [AppID 244850] Download item 3381681547 requested by app
+[2026-06-08 07:36:19] [AppID 244850] Starting Workshop download job (requested item 3381681547 )
+[2026-06-08 07:36:19] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3381681547, new manifest 164967871615511487
+[2026-06-08 07:36:19] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:26] [AppID 244850] Download item 3381681547 result : OK
+[2026-06-08 07:36:26] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:26] [AppID 244850] Download item 3351055036 requested by app
+[2026-06-08 07:36:26] [AppID 244850] Starting Workshop download job (requested item 3351055036 )
+[2026-06-08 07:36:26] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3351055036, new manifest 8194415827371818949
+[2026-06-08 07:36:26] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:34] [AppID 244850] Download item 3351055036 result : OK
+[2026-06-08 07:36:34] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:34] [AppID 244850] Download item 3332488661 requested by app
+[2026-06-08 07:36:34] [AppID 244850] Starting Workshop download job (requested item 3332488661 )
+[2026-06-08 07:36:34] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3332488661, new manifest 4403408679539222712
+[2026-06-08 07:36:34] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:35] [AppID 244850] Download item 3332488661 result : OK
+[2026-06-08 07:36:35] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:35] [AppID 244850] Download item 3332458377 requested by app
+[2026-06-08 07:36:35] [AppID 244850] Starting Workshop download job (requested item 3332458377 )
+[2026-06-08 07:36:36] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3332458377, new manifest 8566414532509438186
+[2026-06-08 07:36:36] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:37] [AppID 244850] Download item 3332458377 result : OK
+[2026-06-08 07:36:37] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:37] [AppID 244850] Download item 3241326439 requested by app
+[2026-06-08 07:36:37] [AppID 244850] Starting Workshop download job (requested item 3241326439 )
+[2026-06-08 07:36:37] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3241326439, new manifest 4055139907706679226
+[2026-06-08 07:36:37] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:39] [AppID 244850] Download item 3241326439 result : OK
+[2026-06-08 07:36:39] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:39] [AppID 244850] Download item 3240629702 requested by app
+[2026-06-08 07:36:39] [AppID 244850] Starting Workshop download job (requested item 3240629702 )
+[2026-06-08 07:36:39] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3240629702, new manifest 8982611771009677119
+[2026-06-08 07:36:39] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:40] [AppID 244850] Download item 3240629702 result : OK
+[2026-06-08 07:36:40] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:40] [AppID 244850] Download item 3232085677 requested by app
+[2026-06-08 07:36:40] [AppID 244850] Starting Workshop download job (requested item 3232085677 )
+[2026-06-08 07:36:41] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3232085677, new manifest 7309797073453642140
+[2026-06-08 07:36:41] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:53] [AppID 244850] Download item 3232085677 result : OK
+[2026-06-08 07:36:53] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:53] [AppID 244850] Download item 3222232482 requested by app
+[2026-06-08 07:36:53] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-08 07:36:53] [AppID 244850] Starting Workshop download job (requested item 3222232482 )
+[2026-06-08 07:36:53] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3222232482, new manifest 3858324822946197786
+[2026-06-08 07:36:53] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:55] [AppID 244850] Download item 3222232482 result : OK
+[2026-06-08 07:36:55] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:55] [AppID 244850] Download item 3169862712 requested by app
+[2026-06-08 07:36:55] [AppID 244850] Starting Workshop download job (requested item 3169862712 )
+[2026-06-08 07:36:55] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3169862712, new manifest 1205710218942098866
+[2026-06-08 07:36:55] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:56] [AppID 244850] Download item 3169862712 result : OK
+[2026-06-08 07:36:56] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:56] [AppID 244850] Download item 3152436752 requested by app
+[2026-06-08 07:36:56] [AppID 244850] Starting Workshop download job (requested item 3152436752 )
+[2026-06-08 07:36:56] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3152436752, new manifest 5411363743311126483
+[2026-06-08 07:36:56] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:36:58] [AppID 244850] Download item 3152436752 result : OK
+[2026-06-08 07:36:58] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:36:58] [AppID 244850] Download item 2609118808 requested by app
+[2026-06-08 07:36:58] [AppID 244850] Starting Workshop download job (requested item 2609118808 )
+[2026-06-08 07:36:58] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2609118808, new manifest 1770221276592596632
+[2026-06-08 07:36:58] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:37:00] [AppID 244850] Download item 2609118808 result : OK
+[2026-06-08 07:37:00] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 07:37:00] [AppID 244850] Download item 2200451495 requested by app
+[2026-06-08 07:37:00] [AppID 244850] Starting Workshop download job (requested item 2200451495 )
+[2026-06-08 07:37:00] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2200451495, new manifest 6901124684131241414
+[2026-06-08 07:37:00] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 07:37:14] [AppID 244850] Download item 2200451495 result : OK
+[2026-06-08 07:37:14] [AppID 244850] Finished Workshop download job : No Error
+
+
+[2026-06-08 07:58:43] Client version: no bootstrapper found
+[2026-06-08 07:58:43] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-08 07:58:47] [AppID 244850] GetDetails request 0x1 - batch (0-93 of 93) => not in cache, requesting from Steam
+[2026-06-08 07:58:48] [AppID 244850] Unloaded installed workshop items
+[2026-06-08 07:58:48] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (97 installed, 97 needed)
+[2026-06-08 07:58:48] [AppID 244850] GetDetails request 0x2 - batch (0-93 of 93) => not in cache, requesting from Steam
+[2026-06-08 07:58:49] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-08 08:40:53] Client version: no bootstrapper found
+[2026-06-08 08:40:53] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-08 08:40:58] [AppID 244850] GetDetails request 0x1 - batch (0-93 of 93) => not in cache, requesting from Steam
+[2026-06-08 08:40:59] [AppID 244850] Unloaded installed workshop items
+[2026-06-08 08:40:59] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (97 installed, 97 needed)
+[2026-06-08 08:40:59] [AppID 244850] GetDetails request 0x2 - batch (0-93 of 93) => not in cache, requesting from Steam
+[2026-06-08 08:41:00] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-08 08:55:56] Client version: no bootstrapper found
+[2026-06-08 08:55:56] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-08 08:56:05] [AppID 244850] GetDetails request 0x1 - batch (0-94 of 94) => not in cache, requesting from Steam
+[2026-06-08 08:56:05] [AppID 244850] Unloaded installed workshop items
+[2026-06-08 08:56:05] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (97 installed, 97 needed)
+[2026-06-08 08:56:05] [AppID 244850] GetDetails request 0x2 - batch (0-94 of 94) => not in cache, requesting from Steam
+[2026-06-08 08:56:06] [AppID 244850] Download item 3154371364 requested by app
+[2026-06-08 08:56:06] [AppID 244850] Starting Workshop download job (requested item 3154371364 )
+[2026-06-08 08:56:06] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3154371364, new manifest 4434021653725019969
+[2026-06-08 08:56:06] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 08:56:11] [AppID 244850] Download item 3154371364 result : OK
+[2026-06-08 08:56:11] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 08:56:11] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-08 09:20:41] Client version: no bootstrapper found
+[2026-06-08 09:20:41] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-08 09:20:48] [AppID 244850] GetDetails request 0x1 - batch (0-94 of 94) => not in cache, requesting from Steam
+[2026-06-08 09:20:49] [AppID 244850] Unloaded installed workshop items
+[2026-06-08 09:20:49] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (98 installed, 98 needed)
+[2026-06-08 09:20:49] [AppID 244850] GetDetails request 0x2 - batch (0-94 of 94) => not in cache, requesting from Steam
+[2026-06-08 09:20:50] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-08 09:39:22] Client version: no bootstrapper found
+[2026-06-08 09:39:22] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-08 09:39:28] [AppID 244850] GetDetails request 0x1 - batch (0-94 of 94) => not in cache, requesting from Steam
+[2026-06-08 09:39:29] [AppID 244850] Unloaded installed workshop items
+[2026-06-08 09:39:29] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (98 installed, 98 needed)
+[2026-06-08 09:39:29] [AppID 244850] GetDetails request 0x2 - batch (0-94 of 94) => not in cache, requesting from Steam
+[2026-06-08 09:39:30] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-08 10:23:54] Client version: no bootstrapper found
+[2026-06-08 10:23:54] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-08 10:24:00] [AppID 244850] GetDetails request 0x1 - batch (0-99 of 99) => not in cache, requesting from Steam
+[2026-06-08 10:24:01] [AppID 244850] Unloaded installed workshop items
+[2026-06-08 10:24:01] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (98 installed, 98 needed)
+[2026-06-08 10:24:01] [AppID 244850] GetDetails request 0x2 - batch (0-99 of 99) => not in cache, requesting from Steam
+[2026-06-08 10:24:02] [AppID 244850] Download item 3437815208 requested by app
+[2026-06-08 10:24:02] [AppID 244850] Starting Workshop download job (requested item 3437815208 )
+[2026-06-08 10:24:02] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3437815208, new manifest 833062381107938120
+[2026-06-08 10:24:02] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 10:24:07] [AppID 244850] Download item 3437815208 result : OK
+[2026-06-08 10:24:07] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 10:24:07] [AppID 244850] Download item 2503713768 requested by app
+[2026-06-08 10:24:07] [AppID 244850] Starting Workshop download job (requested item 2503713768 )
+[2026-06-08 10:24:07] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2503713768, new manifest 3997041085383916554
+[2026-06-08 10:24:07] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 10:24:55] [AppID 244850] Download item 2503713768 result : OK
+[2026-06-08 10:24:55] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 10:24:55] [AppID 244850] Download item 1939935505 requested by app
+[2026-06-08 10:24:56] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-08 10:24:56] [AppID 244850] Starting Workshop download job (requested item 1939935505 )
+[2026-06-08 10:24:56] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1939935505, new manifest 6221337361396193414
+[2026-06-08 10:24:56] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 10:25:18] [AppID 244850] Download item 1939935505 result : OK
+[2026-06-08 10:25:18] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 10:25:18] [AppID 244850] Download item 1864380341 requested by app
+[2026-06-08 10:25:18] [AppID 244850] Starting Workshop download job (requested item 1864380341 )
+[2026-06-08 10:25:18] [AppID 244850] Detected workshop change (latest from server) : changed cached item 1864380341, new manifest 3127843007252068777
+[2026-06-08 10:25:18] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 10:25:27] [AppID 244850] Download item 1864380341 result : OK
+[2026-06-08 10:25:27] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-08 10:25:27] [AppID 244850] Download item 946724937 requested by app
+[2026-06-08 10:25:27] [AppID 244850] Starting Workshop download job (requested item 946724937 )
+[2026-06-08 10:25:27] [AppID 244850] Detected workshop change (latest from server) : changed cached item 946724937, new manifest 3149253622443812392
+[2026-06-08 10:25:27] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-08 10:26:00] [AppID 244850] Download item 946724937 result : OK
+[2026-06-08 10:26:00] [AppID 244850] Finished Workshop download job : No Error
+
+
+[2026-06-08 15:40:20] Client version: no bootstrapper found
+[2026-06-08 15:40:20] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-08 15:40:25] [AppID 244850] GetDetails request 0x1 - batch (0-99 of 99) => not in cache, requesting from Steam
+[2026-06-08 15:40:25] [AppID 244850] Unloaded installed workshop items
+[2026-06-08 15:40:25] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (103 installed, 103 needed)
+[2026-06-08 15:40:25] [AppID 244850] GetDetails request 0x2 - batch (0-99 of 99) => not in cache, requesting from Steam
+[2026-06-08 15:40:27] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-08 16:25:28] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-08 17:10:29] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-08 17:55:30] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-08 18:40:32] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-08 19:25:33] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-08 20:10:34] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-08 20:55:35] [AppID 244850] Updating workshop item details failed with Access Denied
+
+
+[2026-06-09 15:37:46] Client version: no bootstrapper found
+[2026-06-09 15:37:46] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-09 15:37:53] [AppID 244850] GetDetails request 0x1 - batch (0-103 of 103) => not in cache, requesting from Steam
+[2026-06-09 15:37:54] [AppID 244850] Unloaded installed workshop items
+[2026-06-09 15:37:54] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (103 installed, 103 needed)
+[2026-06-09 15:37:54] [AppID 244850] GetDetails request 0x2 - batch (0-103 of 103) => not in cache, requesting from Steam
+[2026-06-09 15:37:54] [AppID 244850] Download item 3740903126 requested by app
+[2026-06-09 15:37:54] [AppID 244850] Starting Workshop download job (requested item 3740903126 )
+[2026-06-09 15:37:54] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3740903126, new manifest 7964737699462225510
+[2026-06-09 15:37:54] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-09 15:37:58] [AppID 244850] Download item 3740903126 result : OK
+[2026-06-09 15:37:58] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-09 15:37:58] [AppID 244850] Download item 3738633660 requested by app
+[2026-06-09 15:37:58] [AppID 244850] Starting Workshop download job (requested item 3738633660 )
+[2026-06-09 15:37:58] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3738633660, new manifest 6480065474972399986
+[2026-06-09 15:37:58] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-09 15:38:01] [AppID 244850] Download item 3738633660 result : OK
+[2026-06-09 15:38:01] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-09 15:38:01] [AppID 244850] Download item 3154379105 requested by app
+[2026-06-09 15:38:01] [AppID 244850] Updating workshop item details failed with Access Denied
+[2026-06-09 15:38:01] [AppID 244850] Starting Workshop download job (requested item 3154379105 )
+[2026-06-09 15:38:01] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3154379105, new manifest 9189103782677668945
+[2026-06-09 15:38:01] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-09 15:38:15] [AppID 244850] Download item 3154379105 result : OK
+[2026-06-09 15:38:15] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-09 15:38:15] [AppID 244850] Download item 2023664724 requested by app
+[2026-06-09 15:38:15] [AppID 244850] Starting Workshop download job (requested item 2023664724 )
+[2026-06-09 15:38:15] [AppID 244850] Detected workshop change (latest from server) : changed cached item 2023664724, new manifest 6922172633962822493
+[2026-06-09 15:38:15] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-09 15:38:31] [AppID 244850] Download item 2023664724 result : OK
+[2026-06-09 15:38:31] [AppID 244850] Finished Workshop download job : No Error
+
+
+[2026-06-09 16:44:32] Client version: no bootstrapper found
+[2026-06-09 16:44:32] [AppID 244850] Loaded workshop items in "<TORCH_ROOT>\Content\Workshop" (0 installed, 0 needed)
+[2026-06-09 16:44:38] [AppID 244850] GetDetails request 0x1 - batch (0-103 of 103) => not in cache, requesting from Steam
+[2026-06-09 16:44:39] [AppID 244850] Unloaded installed workshop items
+[2026-06-09 16:44:39] [AppID 244850] Loaded workshop items in "<TORCH_INSTANCE>" (107 installed, 107 needed)
+[2026-06-09 16:44:39] [AppID 244850] GetDetails request 0x2 - batch (0-103 of 103) => not in cache, requesting from Steam
+[2026-06-09 16:44:39] [AppID 244850] Download item 3738633660 requested by app
+[2026-06-09 16:44:39] [AppID 244850] Starting Workshop download job (requested item 3738633660 )
+[2026-06-09 16:44:39] [AppID 244850] Detected workshop change (latest from server) : changed cached item 3738633660, new manifest 5398153323872029111
+[2026-06-09 16:44:39] [AppID 244850] Workshop update job started while app is running, commit : yes
+[2026-06-09 16:44:42] [AppID 244850] Download item 3738633660 result : OK
+[2026-06-09 16:44:42] [AppID 244850] Finished Workshop download job : No Error
+[2026-06-09 16:44:43] [AppID 244850] Updating workshop item details failed with Access Denied
