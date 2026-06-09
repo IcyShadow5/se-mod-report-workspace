@@ -1,28 +1,49 @@
-# Space Engineers Mod Report Workspace
+# ONS + MES + RSS Dedicated Server Compatibility Report
 
-Private workspace for preparing Space Engineers mod bug reports and sanitized evidence packages.
+Public sanitized evidence package for testing **Orbital NPC Spawns** with **Modular Encounters Systems** on a **Real Solar Systems-scale Torch dedicated server**.
 
-This repository is for my own server/project work unless I explicitly make a specific report public.
+This package is meant for a Steam Workshop discussion, GitHub issue, or Discord support thread. It contains the report, concise analysis, relevant diagnostic trace, extracted evidence, and sanitized full logs. It does not contain source code, save files, credentials, IP addresses, Steam IDs, or raw private server data.
 
-## What belongs here
+## Short summary
 
-- Draft bug reports before sending them to mod authors.
-- Sanitized log excerpts.
-- Mod-specific notes.
-- Reproduction steps.
-- Test results and rollback notes.
+- ONS loaded on a Torch dedicated server.
+- MES was detected and the MES API was ready.
+- ONS intercepted a MES NPC grid and applied a stable-orbit/pass-by velocity correction.
+- The corrected grid initially reached the target velocity, then slowed down after ONS released control.
+- MES also warned about NPC grid spawning beyond 6500 km from world center.
+- The tested RSS-scale intercept occurred roughly 38,731 km from world center.
 
-## What does not belong here
+## Start here
 
-- Raw server logs with private data.
-- Full save files unless reviewed.
-- Tokens, credentials, remote admin data, IPs, private paths, or player identifiers.
-- Unreviewed config dumps.
+- Main report: `reports/Bug_Report_ONS_MES_RSS_Dedicated_Server.md`
+- Follow-up analysis: `reports/ONS_MES_RSS_Test_Analysis.md`
+- Evidence index: `evidence/README.md`
 
-## Workflow
+## Folder layout
 
-1. Put raw logs in a local folder outside Git or in `private-do-not-upload/`.
-2. Extract only relevant lines.
-3. Sanitize the excerpt.
-4. Write a report in `reports/outgoing/`.
-5. Attach sanitized logs from `logs/safe-to-share/` when sending the report.
+```text
+reports/
+  Bug_Report_ONS_MES_RSS_Dedicated_Server.md
+  ONS_MES_RSS_Test_Analysis.md
+evidence/
+  diagnostic-trace/
+  key-extracts/
+  mod-list/
+logs/
+  full-sanitized/
+STEAM_DISCUSSION_POST.md
+```
+
+## Sanitization
+
+The files were reviewed for public sharing. Sensitive values are redacted with placeholders such as:
+
+- `<IP_ADDRESS>`
+- `<PORT>`
+- `<SERVER_NAME>`
+- `<SAVE_PATH>`
+- `<TORCH_INSTANCE>`
+- `<TORCH_ROOT>`
+- `<TEST_PLAYER>`
+
+The package intentionally excludes private staging folders, internal templates, raw save data, and unrelated supplemental Steam client logs.

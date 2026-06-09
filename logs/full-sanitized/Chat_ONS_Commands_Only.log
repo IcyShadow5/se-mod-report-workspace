@@ -1,0 +1,7 @@
+2026-06-09 16:04:14.6694 [Global:0] <TEST_PLAYER>: /ons speed 1000
+/ons diag
+2026-06-09 16:13:17.9111 [Global:0] <TEST_PLAYER>: /ons orbit
+2026-06-09 16:48:59.0352 [Global:0] <TEST_PLAYER>: /ons diag all
+2026-06-09 16:56:00.2270 [Global:0] <TEST_PLAYER>: /ons diag all
+2026-06-09 16:56:13.1860 [Global:0] <TEST_PLAYER>: /ons orbit
+2026-06-09 16:56:18.7268 [Global:0] <TEST_PLAYER>: /ons gps
