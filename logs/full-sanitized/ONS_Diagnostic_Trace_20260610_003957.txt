@@ -1,0 +1,29 @@
+=== ONS DIAGNOSTIC TRACE INITIALIZED AT 2026-06-10 00:39:57.288 ===
+[00:39:57.299] [System] Applied integrated max speed: large=1000 m/s small=1000 m/s
+[00:39:57.305] [System] MES API probe registered (mod message channel 1521905890).
+[00:39:57.307] [System] PlanetSnapshotCache refreshed: 0 bodies.
+[00:39:57.308] [System] Chat commands registered (MessageEnteredSender, admin-only): /ons diag ... /ons gps ... /ons speed ... /ons dev ... /ons orbit ... /ons gravity ...
+[00:39:57.310] [System] MES spawn observer chat hook registered (/MES.Spawn, /MES.SRE, etc.).
+[00:39:57.310] [System] Orbital NPC Spawns loaded. RealOrbits=True RSS=True trace=True persistent=True
+[00:39:57.310] [System] Real Orbits environment: loaded=True detail=workshop id=2609118808, friendly name=Real Orbits, mod name=2609118808.sbm
+[00:39:57.310] [System] MES environment: loaded=True apiReady=False detail=mod list hint (api pending): workshop id=1521905890.sbm friendly=Modular Encounters Systems publishedId=1521905890
+[00:40:11.690] [System] Mod environment refresh: RealOrbits=True (workshop id=2609118808, friendly name=Real Orbits, mod name=2609118808.sbm) MES=True apiReady=False (mod list hint (api pending): workshop id=1521905890.sbm friendly=Modular Encounters Systems publishedId=1521905890)
+[00:40:11.691] [System] PlanetSnapshotCache refreshed: 13 bodies.
+[00:40:11.692] [System] OnEntityAdd hook registered.
+[00:40:16.421] [System] MES detected via API handshake. api ready; mod list hint=workshop id=1521905890.sbm friendly=Modular Encounters Systems publishedId=1521905890
+[00:40:16.423] [System] MES API ready. RegisterSuccessfulSpawnAction attached.
+[00:40:17.616] [System] Applied integrated max speed: large=1000 m/s small=1000 m/s
+[00:40:17.616] [System] Session ready. Integrated max ship speed 1000 m/s (large & small grids).
+[00:43:13.896] [System] Speed notice to IcyShadow: Max ship speed is 1000 m/s (large & small grids).
+[00:43:19.736] [Spawn] observe grid=Economy_Outpost_4 id=102344102267718302 source=unconfirmed apiAnnounced=False role=NotMes spawnType=None spawnGroup=(none) prefab=(none) eventId=0 distNearest=11047 distFast=-1 playerSpeed=0.0 view=12000 onsAction=pending-defer-player-speed gravity=spawn-well=Queres g=9.810
+[00:43:19.739] [Intercept] SKIP grid=Economy_Outpost_4 id=102344102267718302 deferred=False reason=static grid
+[00:43:20.728] [System] Speed notice to : Max ship speed is 1000 m/s (large & small grids).
+[00:43:21.492] [Spawn] observe grid=Economy_Outpost_2 id=81096484468112290 source=unconfirmed apiAnnounced=False role=NotMes spawnType=None spawnGroup=(none) prefab=(none) eventId=0 distNearest=2057 distFast=2436 playerSpeed=6.5 view=12000 onsAction=pending-defer-player-speed gravity=player-well=Polemos-A speed=6.5 eps=-88473
+[00:43:21.492] [Intercept] SKIP grid=Economy_Outpost_2 id=81096484468112290 deferred=False reason=static grid
+[00:44:04.701] [Intercept] SKIP grid=(ACI) Feros Interceptor (ICP) id=82066509652550063 deferred=False reason=not npc owned
+[00:44:50.647] [Spawn] observe grid=Unknown Signal id=79890469963757423 source=unconfirmed apiAnnounced=False role=Signal spawnType=None spawnGroup=(none) prefab=(none) eventId=0 distNearest=49619 distFast=49619 playerSpeed=346.5 view=12000 onsAction=pending-defer-owner gravity=player-well=Queres speed=346.5 eps=-248576
+[00:44:50.649] [Intercept] SKIP grid=Unknown Signal id=79890469963757423 reason=beyond intercept range dist=49619 max=24000 view=12000
+[00:48:17.231] [Spawn] observe grid=(NPC-INC) Gremlin Assault id=91939755264941171 source=natural apiAnnounced=False role=CargoTransit spawnType=GravityCargoShip spawnGroup=Incon-SpawnGroup-GremlinAssault prefab=MES-Prefab-1-1 eventId=-1 distNearest=227226 distFast=227226 playerSpeed=853.5 view=12000 onsAction=skip-beyond-intercept-range gravity=player-well=Queres speed=853.5 eps=117312
+[00:48:17.231] [Intercept] SKIP grid=(NPC-INC) Gremlin Assault id=91939755264941171 reason=beyond intercept range dist=227226 max=24000 view=12000
+[00:48:17.263] [Spawn] api-announced grid=(NPC-INC) Gremlin Assault id=91939755264941171 source=mes-api spawnGroup=Incon-SpawnGroup-GremlinAssault distFast=227247 playerSpeed=853.5
+=== ONS DIAGNOSTIC TRACE CLOSED AT 2026-06-10 00:58:38.394 ===

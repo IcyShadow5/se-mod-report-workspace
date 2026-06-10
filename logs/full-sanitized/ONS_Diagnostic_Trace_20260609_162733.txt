@@ -1,0 +1,141 @@
+=== ONS DIAGNOSTIC TRACE INITIALIZED AT 2026-06-09 16:27:33.708 ===
+[16:29:23.477] [Intercept] SKIP grid=Economy_Outpost_4 id=107297913593891255 deferred=False reason=static grid
+[16:29:26.552] [Intercept] SKIP grid=Economy_Outpost_5 id=93274623830328146 deferred=False reason=static grid
+[16:30:05.350] [Intercept] SKIP grid=Logistics Post id=97796318187749447 deferred=False reason=static grid
+[16:30:05.358] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=1/30
+[16:30:05.370] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=2/30
+[16:30:05.375] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=3/30
+[16:30:05.380] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=4/30
+[16:30:05.397] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=5/30
+[16:30:05.441] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=6/30
+[16:30:05.444] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=7/30
+[16:30:05.446] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=8/30
+[16:30:05.474] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=9/30
+[16:30:05.482] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=10/30
+[16:30:05.512] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=11/30
+[16:30:05.521] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=12/30
+[16:30:05.533] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=13/30
+[16:30:05.555] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=14/30
+[16:30:05.569] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=15/30
+[16:30:05.583] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=16/30
+[16:30:05.598] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=17/30
+[16:30:05.613] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=18/30
+[16:30:05.631] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=19/30
+[16:30:05.650] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=20/30
+[16:30:05.675] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=21/30
+[16:30:05.679] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=22/30
+[16:30:05.707] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=23/30
+[16:30:05.713] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=24/30
+[16:30:05.740] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=25/30
+[16:30:05.746] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=26/30
+[16:30:05.771] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=27/30
+[16:30:05.785] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=28/30
+[16:30:05.802] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=29/30
+[16:30:05.815] [Intercept] DEFER grid=Logistics Drone id=112457468020537654 reason=waiting for fast player bestSpeed=0.0 attempt=30/30
+[16:30:05.831] [Intercept] SKIP grid=Logistics Drone id=112457468020537654 reason=no fast reference player bestSpeed=0.0 threshold=200.0
+[16:31:45.068] [Intercept] SKIP grid=Orbital Shuttle (Vanilla) id=109124977565658544 deferred=False reason=not npc owned
+[16:31:50.318] [Intercept] SKIP grid=Small Grid 4458 id=134054955841194458 deferred=True reason=no owners yet
+[16:31:50.318] [Intercept] SKIP grid=Small Grid 9311 id=123149946857769311 deferred=True reason=no owners yet
+[16:31:50.418] [Intercept] SKIP grid=Small Grid 6868 id=116918507164826868 deferred=True reason=no ship controller
+[16:31:50.418] [Intercept] SKIP grid=Small Grid 8197 id=82264039496228197 deferred=True reason=no ship controller
+[16:31:50.686] [Intercept] SKIP grid=Small Grid 9316 id=114904930573269316 deferred=True reason=no ship controller
+[16:32:13.169] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=1/30
+[16:32:13.180] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=2/30
+[16:32:13.183] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=3/30
+[16:32:13.204] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=4/30
+[16:32:13.209] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=5/30
+[16:32:13.234] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=6/30
+[16:32:13.249] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=7/30
+[16:32:13.264] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=8/30
+[16:32:13.281] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=9/30
+[16:32:13.296] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=10/30
+[16:32:13.312] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=11/30
+[16:32:13.329] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=12/30
+[16:32:13.345] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=13/30
+[16:32:13.361] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=14/30
+[16:32:13.377] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=15/30
+[16:32:13.394] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=16/30
+[16:32:13.422] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=17/30
+[16:32:13.427] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=18/30
+[16:32:13.454] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=19/30
+[16:32:13.460] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=20/30
+[16:32:13.485] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=21/30
+[16:32:13.500] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=22/30
+[16:32:13.516] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=23/30
+[16:32:13.532] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=24/30
+[16:32:13.546] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=25/30
+[16:32:13.563] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=26/30
+[16:32:13.579] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=27/30
+[16:32:13.595] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=28/30
+[16:32:13.611] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=29/30
+[16:32:13.626] [Intercept] DEFER grid=Unknown Signal id=111205026974511155 reason=waiting for fast player bestSpeed=0.0 attempt=30/30
+[16:32:13.644] [Intercept] SKIP grid=Unknown Signal id=111205026974511155 reason=no fast reference player bestSpeed=0.0 threshold=200.0
+[16:32:32.955] [Intercept] SKIP grid=Zentaur - Exploration Ship id=94795650898782427 deferred=False reason=not npc owned
+[16:34:22.057] [Lifecycle] session-settings viewDistance=12000m isServer=True onsGpsCap=14000m mesLoaded=True mesDetail=api ready; mod list hint=workshop id=1521905890.sbm friendly=Modular Encounters Systems publishedId=1521905890
+[16:34:22.061] [Lifecycle] watch-start grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 player=144115188075855895 dist=6319 view=12000 strategy=Suborbital/PassBy flight=rc=1 flightMove=0/0 dampOff=2 dampOn=0 attach=mech=1 phys=1 physOther=0 physStatic=0 physDyn=0 mechOther=0 mechStatic=0 top=self
+[16:34:22.062] [Gravity] planet=Queres r=83450 g_meas=6.361 falloff_gen=7.00 falloff_emp=2.00 profile=InverseSquare ro=True epsilon=-357779.0 periapsis=13295
+[16:34:22.063] [Intercept] grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 player=144115188075855895 refSpeed=337.6 case=Suborbital applied=True unknownSignal=False
+[16:34:22.063] [Intercept] attach grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 mech=1 phys=1 physOther=0 physStatic=0 physDyn=0 mechOther=0 mechStatic=0 top=self
+[16:34:22.063] [Kinematics] strategy=Suborbital/PassBy v_before=0,0,0 v_after=400,-11,-595 p_before=4351837,29224160,24962239 p_after=4354800,29224160,24961770 dampeners=off hostile=True enforce=180t
+[16:34:23.015] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=60 dist=4811 view=12000 speed=717 rel=522 close=-288 static=False released=False flight=rc=1 flightMove=0/0 dampOff=2 dampOn=0
+[16:34:25.095] [Kinematics] enforce-done grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 target=717 actual=717 released
+[16:34:25.098] [Orbit] subject=(NPC-IBR) Aquila Strike Corvette planet=Queres r=83336 vel=400,-11,-595 speed=716.6 class=near-circular stable=True e=0.038 inc=1.2 peri=77509 apo=83671 period=683s notes=
+[16:34:25.100] [Lifecycle] vanilla-hold-start grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 player=144115188075855895 targetSpeed=717 engageDist=5000
+[16:34:26.078] [Lifecycle] vanilla-hold-snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=60 holdSpeed=716 dist=5820 view=12000 engage=5000 rel=520 close=379 cpa=5820 inEnvelope=False block=insufficient-decel state=flyby-hold nextApply=1t
+[16:34:28.108] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=360 dist=6625 view=12000 speed=717 rel=519 close=-416 static=False released=False flight=rc=1 flightMove=0/0 dampOff=2 dampOn=0
+[16:34:31.080] [Lifecycle] vanilla-hold-snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=360 holdSpeed=716 dist=7925 view=12000 engage=5000 rel=518 close=451 cpa=7925 inEnvelope=False block=insufficient-decel state=flyby-hold nextApply=1t
+[16:34:33.104] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=660 dist=8851 view=12000 speed=717 rel=518 close=-466 static=False released=False flight=rc=1 flightMove=0/0 dampOff=2 dampOn=0
+[16:34:36.077] [Lifecycle] vanilla-hold-snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=660 holdSpeed=716 dist=10265 view=12000 engage=5000 rel=517 close=481 cpa=10265 inEnvelope=False block=cpa-too-wide-closing state=flyby-hold nextApply=1t
+[16:34:38.101] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=960 dist=11243 view=12000 speed=717 rel=518 close=-488 static=False released=False flight=rc=1 flightMove=0/0 dampOff=2 dampOn=0
+[16:34:39.645] [Lifecycle] vanilla-hold-released grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 reason=beyond-view-coast dist=12003 view=12000 rel=518 holdSpeed=716 flight=rc=1 flightMove=0/0 dampOff=2 dampOn=0
+[16:34:39.646] [Lifecycle] enforce-released grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 dist=12003 speed=716 flight=rc=1 flightMove=0/0 dampOff=2 dampOn=0 attach=mech=1 phys=1 physOther=0 physStatic=0 physDyn=0 mechOther=0 mechStatic=0 top=self
+[16:34:43.103] [Lifecycle] milestone beyond-view grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 dist=13640 view=12000 stillPresent=true
+[16:34:43.103] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=1260 dist=13640 view=12000 speed=675 rel=450 close=-439 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:34:48.098] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=1560 dist=15668 view=12000 speed=614 rel=384 close=-378 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:34:53.098] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=1860 dist=17432 view=12000 speed=553 rel=329 close=-327 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:34:58.100] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=2160 dist=18943 view=12000 speed=491 rel=278 close=-278 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:35:03.102] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=2460 dist=20214 view=12000 speed=430 rel=232 close=-231 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:35:08.093] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=2760 dist=21258 view=12000 speed=369 rel=193 close=-187 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:35:13.104] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=3060 dist=22093 view=12000 speed=308 rel=167 close=-148 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:35:18.096] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=3360 dist=22719 view=12000 speed=247 rel=172 close=-103 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:35:23.098] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=3660 dist=23131 view=12000 speed=186 rel=220 close=-64 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:35:28.094] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=3960 dist=23353 view=12000 speed=126 rel=261 close=-26 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:35:33.099] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=4260 dist=23426 view=12000 speed=69 rel=266 close=-4 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:35:38.105] [Lifecycle] snapshot grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=4560 dist=23395 view=12000 speed=35 rel=265 close=16 static=False released=True flight=rc=1 flightMove=0/0 dampOff=0 dampOn=2
+[16:35:39.463] [Intercept] SKIP grid=Small Grid 5857 id=140958698099375857 deferred=True reason=no ship controller
+[16:35:40.742] [Lifecycle] grid-vanished grid=(NPC-IBR) Aquila Strike Corvette id=91509447155463804 ageTicks=4718 enforcementReleased=True attachAtCapture=mech=1 phys=1 physOther=0 physStatic=0 physDyn=0 mechOther=0 mechStatic=0 top=self
+[16:36:39.107] [Intercept] SKIP grid=Rota mk2 (vanilla) id=128993081374217346 deferred=False reason=not npc owned
+[16:44:25.112] [Intercept] SKIP grid=(ACI) Feros Interceptor (ICP) id=121726448852223564 deferred=False reason=not npc owned
+[16:52:26.556] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=100.0 attempt=1/30
+[16:52:26.596] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=100.0 attempt=2/30
+[16:52:26.600] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=100.0 attempt=3/30
+[16:52:26.603] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=100.0 attempt=4/30
+[16:52:26.605] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.9 attempt=5/30
+[16:52:26.607] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.9 attempt=6/30
+[16:52:26.621] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.9 attempt=7/30
+[16:52:26.639] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.9 attempt=8/30
+[16:52:26.655] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.9 attempt=9/30
+[16:52:26.671] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.8 attempt=10/30
+[16:52:26.688] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.8 attempt=11/30
+[16:52:26.705] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.8 attempt=12/30
+[16:52:26.721] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.8 attempt=13/30
+[16:52:26.738] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.7 attempt=14/30
+[16:52:26.754] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.7 attempt=15/30
+[16:52:26.771] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.7 attempt=16/30
+[16:52:26.788] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.7 attempt=17/30
+[16:52:26.804] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.7 attempt=18/30
+[16:52:26.821] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.6 attempt=19/30
+[16:52:26.839] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.6 attempt=20/30
+[16:52:26.854] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.6 attempt=21/30
+[16:52:26.871] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.6 attempt=22/30
+[16:52:26.888] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.6 attempt=23/30
+[16:52:26.904] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.5 attempt=24/30
+[16:52:26.921] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.5 attempt=25/30
+[16:52:26.938] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.5 attempt=26/30
+[16:52:26.955] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.5 attempt=27/30
+[16:52:26.974] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.4 attempt=28/30
+[16:52:26.990] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.4 attempt=29/30
+[16:52:27.005] [Intercept] DEFER grid=Bellerophon id=134955934668543804 reason=waiting for fast player bestSpeed=99.4 attempt=30/30
+[16:52:27.023] [Intercept] SKIP grid=Bellerophon id=134955934668543804 reason=no fast reference player bestSpeed=99.4 threshold=200.0
+[16:54:26.508] [Intercept] SKIP grid=Factorum Relay Satellite id=137523620753809270 deferred=False reason=static grid
+=== ONS DIAGNOSTIC TRACE CLOSED AT 2026-06-09 16:58:37.923 ===
